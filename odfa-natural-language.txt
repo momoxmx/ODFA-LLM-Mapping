@@ -1,0 +1,2603 @@
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a Modified Dental Anxiety Scale (MDAS) question.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a Modified Dental Anxiety Scale (MDAS) question.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a Modified Dental Anxiety Scale (MDAS) question.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a Modified Dental Anxiety Scale (MDAS) question.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a Modified Dental Anxiety Scale (MDAS) question.
+secretion by tissue is a transport.
+secretion is a transport.
+sweat secretion is a transport.
+body fluid secretion is a transport.
+sweat secretion response to emotion is a transport.
+dental care-related fear process is a fear process.
+dental patient role is a patient role.
+secretion by tissue is a secretion.
+body fluid secretion is a secretion.
+sweat secretion response to emotion is a secretion.
+sweat secretion is a secretion.
+tooth cleaning procedure is a tooth cleaning process.
+tooth polishing procedure is a tooth cleaning process.
+tooth scaling procedure is a tooth cleaning process.
+embarrassment is a self-conscious emotional experience.
+body fluid secretion is a biological regulation.
+regulation of body fluid levels is a biological regulation.
+sweat secretion response to emotion is a biological regulation.
+regulation of biological quality is a biological regulation.
+sweat secretion is a biological regulation.
+material transformation objective is a objective specification.
+material combination objective is a objective specification.
+adding material objective is a objective specification.
+fear of severe pain question is a fear of pain question.
+fear of minor pain question is a fear of pain question.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a biological_process.
+nervous system process is a biological_process.
+muscle tension response to emotion is a biological_process.
+increased heart response to emotion is a biological_process.
+dental visit avoidance behavior is a biological_process.
+regulation of body fluid levels is a biological_process.
+biological regulation is a biological_process.
+avoidance behavior is a biological_process.
+psychophysiological response to emotion is a biological_process.
+phenomenal cognitive experience is a biological_process.
+sweat secretion is a biological_process.
+dental care-related fear process is a biological_process.
+fear process is a biological_process.
+establishment of localization is a biological_process.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a biological_process.
+respiratory system process is a biological_process.
+body fluid secretion is a biological_process.
+increased breathing rate response to emotion is a biological_process.
+regulation of biological quality is a biological_process.
+secretion by tissue is a biological_process.
+sweat secretion response to emotion is a biological_process.
+muscle contraction is a biological_process.
+dental visit avoidance behavior that involves canceling a dental appointment is a biological_process.
+emotional experience is a biological_process.
+behavior is a biological_process.
+health encounter avoidance behavior is a biological_process.
+psychophysiological response to fear is a biological_process.
+behavioral defense response is a biological_process.
+psychophysiological response to anxiety is a biological_process.
+self-conscious emotional experience is a biological_process.
+embarrassment is a biological_process.
+secretion is a biological_process.
+response to stress is a biological_process.
+transport is a biological_process.
+system process is a biological_process.
+muscle system process is a biological_process.
+emotion process is a biological_process.
+multicellular organismal process is a biological_process.
+response to stimulus is a biological_process.
+heart process is a biological_process.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a biological_process.
+locomotion is a biological_process.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a biological_process.
+motor behavior is a biological_process.
+dental care-related anxiety process is a biological_process.
+anxiety process is a biological_process.
+cognition is a biological_process.
+defense response is a biological_process.
+circulatory system process is a biological_process.
+localization is a biological_process.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a dental visit avoidance behavior.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a dental visit avoidance behavior.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a dental visit avoidance behavior.
+dental visit avoidance behavior that involves canceling a dental appointment is a dental visit avoidance behavior.
+DFS 07. My heart beats faster. is a information content entity.
+DFS 12. The smell of the dentist’s office. is a information content entity.
+DFS 18. Feeling the vibrations of the drill. is a information content entity.
+DFS 17. Hearing the drill. is a information content entity.
+DFS 16. Seeing the drill. is a information content entity.
+Dental Fear Survey (DFS) question is a information content entity.
+MDAS - Not anxious is a information content entity.
+DFS 06. I feel nauseated and sick to my stomach. is a information content entity.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a information content entity.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a information content entity.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a information content entity.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a information content entity.
+material combination objective is a information content entity.
+DFS - nearly every time is a information content entity.
+IDAF-4C+ 3h. Needles or injections. is a information content entity.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a information content entity.
+Modified Dental Anxiety Scale (MDAS) is a information content entity.
+dental fear and anxiety study dataset is a information content entity.
+DFS - a few times is a information content entity.
+data item is a information content entity.
+fear of minor pain question is a information content entity.
+objective specification is a information content entity.
+Dental Fear Survey (DFS) answer is a information content entity.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a information content entity.
+DFS 04. My breathing rate increases. is a information content entity.
+question about during dental visit is a information content entity.
+Dental Fear Survey (DFS) is a information content entity.
+question is a information content entity.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a information content entity.
+fear of pain question is a information content entity.
+fear of medical procedure question is a information content entity.
+evaluative information entity is a information content entity.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a information content entity.
+avoidance behavior question is a information content entity.
+DFS - once or twice is a information content entity.
+question about after dental visit is a information content entity.
+material transformation objective is a information content entity.
+adding material objective is a information content entity.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a information content entity.
+data collection is a information content entity.
+question about physiological arousal is a information content entity.
+DFS - often is a information content entity.
+MDAS - Slightly anxious is a information content entity.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a information content entity.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a information content entity.
+Dental Anxiety Scale (DAS) answer is a information content entity.
+DFS 13. Seeing the dentist walk in. is a information content entity.
+MDAS - Fairly anxious is a information content entity.
+dental procedure question is a information content entity.
+dataset is a information content entity.
+IDAF-4C+ 2. Do the following statements apply to you? is a information content entity.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a information content entity.
+DFS 19. Having your teeth cleaned. is a information content entity.
+DFS 03. My muscles become tense. is a information content entity.
+Modified Dental Anxiety Scale (MDAS) answer is a information content entity.
+DFS 20. All things considered, how fearful are you of having dental work done? is a information content entity.
+question about embarrassment is a information content entity.
+DFS 05. I perspire. is a information content entity.
+question about tooth drilling is a information content entity.
+dental fear survey answer is a information content entity.
+DFS - very much is a information content entity.
+question about delay in scheduling a dental appointment is a information content entity.
+Dental Anxiety Scale (DAS) is a information content entity.
+question about a tooth cleaning procedure is a information content entity.
+DFS 09. Approaching the dentist’s office. is a information content entity.
+DFS - never is a information content entity.
+DFS - much is a information content entity.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a information content entity.
+DFS 14. Seeing the anesthetic needle. is a information content entity.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a information content entity.
+DFS 08. Making an appointment for dentistry. is a information content entity.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a information content entity.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a information content entity.
+MDAS - Very anxious is a information content entity.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a information content entity.
+question about prior to dental visit is a information content entity.
+Index of Dental Anxiety and Fear (IDAF-4C+) Question is a information content entity.
+assessment question is a information content entity.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a information content entity.
+DFS - level of fear, anxiety, or unpleasantness answer is a information content entity.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a information content entity.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a information content entity.
+avoidance or anticipatory fear question is a information content entity.
+IDAF-4C+ 3c. Not being in control of what is happening. is a information content entity.
+DFS - somewhat is a information content entity.
+directive information entity is a information content entity.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a information content entity.
+dental visit avoidance question is a information content entity.
+MDAS - Extremely anxious is a information content entity.
+Index of Dental Anxiety and Fear (IDAF-4C+) is a information content entity.
+IDAF-4C+ 1. How much do you agree with the following statements? is a information content entity.
+DFS 10. Sitting in the waiting room. is a information content entity.
+dental fear survey assessment instrument answer is a information content entity.
+question about canceling or not showing up for a dental appointment is a information content entity.
+DFS 11. Being seated in the dental chair. is a information content entity.
+DFS 15. Feeling the needle injected. is a information content entity.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a information content entity.
+DFS - none at all is a information content entity.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a information content entity.
+IDAF-4C+ 3i. Gagging or choking. is a information content entity.
+fear of severe pain question is a information content entity.
+IDAF-4C+ 3g. The cost of dental treatment. is a information content entity.
+Modified Dental Anxiety Scale (MDAS) question is a information content entity.
+Dental Anxiety Scale (DAS) question is a information content entity.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a information content entity.
+fear of specific dental stimuli question is a information content entity.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a information content entity.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a information content entity.
+DFS - a little is a information content entity.
+DFS - frequency answer is a information content entity.
+dental fear and anxiety assessment instrument is a information content entity.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a information content entity.
+health encounter avoidance question is a information content entity.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a information content entity.
+question about patient sitting in a waiting room is a information content entity.
+dental fear and anxiety study dataset is a dataset.
+Modified Dental Anxiety Scale (MDAS) is a dental fear and anxiety assessment instrument.
+Dental Anxiety Scale (DAS) is a dental fear and anxiety assessment instrument.
+Dental Fear Survey (DFS) is a dental fear and anxiety assessment instrument.
+Index of Dental Anxiety and Fear (IDAF-4C+) is a dental fear and anxiety assessment instrument.
+regulation of body fluid levels is a regulation of biological quality.
+sweat secretion is a regulation of biological quality.
+body fluid secretion is a regulation of biological quality.
+sweat secretion response to emotion is a regulation of biological quality.
+psychophysiological response to fear is a occurrent.
+tooth cleaning procedure is a occurrent.
+regulation of biological quality is a occurrent.
+planned process is a occurrent.
+infectious disease course is a occurrent.
+self-conscious emotional experience is a occurrent.
+locomotion is a occurrent.
+tooth cleaning process is a occurrent.
+dental care-related anxiety process is a occurrent.
+cognition is a occurrent.
+biological_process is a occurrent.
+psychophysiological response to emotion is a occurrent.
+response to stress is a occurrent.
+smelling dentist office is a occurrent.
+system process is a occurrent.
+process before dental visit is a occurrent.
+perception is a occurrent.
+tooth restoration procedure is a occurrent.
+dental caries disease course is a occurrent.
+circulatory system process is a occurrent.
+outpatient encounter is a occurrent.
+fear process is a occurrent.
+pathological bodily process is a occurrent.
+tooth polishing procedure is a occurrent.
+feeling dental drill vibrations is a occurrent.
+muscle contraction is a occurrent.
+smelling is a occurrent.
+process after dental visit is a occurrent.
+increased breathing rate response to emotion is a occurrent.
+sweat secretion is a occurrent.
+seeing dentist is a occurrent.
+mental process is a occurrent.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a occurrent.
+regulation of body fluid levels is a occurrent.
+tooth drilling procedure is a occurrent.
+emotion process is a occurrent.
+feeling needle injection is a occurrent.
+response to stimulus is a occurrent.
+seeing is a occurrent.
+motor behavior is a occurrent.
+sweat secretion response to emotion is a occurrent.
+psychophysiological response to anxiety is a occurrent.
+nervous system process is a occurrent.
+avoidance behavior is a occurrent.
+respiratory system process is a occurrent.
+health care encounter is a occurrent.
+heart process is a occurrent.
+emotional experience is a occurrent.
+transport is a occurrent.
+establishment of localization is a occurrent.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a occurrent.
+seeing anesthetic needle is a occurrent.
+tooth scaling procedure is a occurrent.
+treatment is a occurrent.
+defense response is a occurrent.
+patient sitting in waiting room is a occurrent.
+embarrassment is a occurrent.
+dental visit avoidance behavior is a occurrent.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a occurrent.
+behavior is a occurrent.
+sitting process is a occurrent.
+increased heart response to emotion is a occurrent.
+seeing dental drill is a occurrent.
+local anaesthetic injection is a occurrent.
+phenomenal cognitive experience is a occurrent.
+dental visit avoidance behavior that involves canceling a dental appointment is a occurrent.
+nausea is a occurrent.
+dental visit is a occurrent.
+process is a occurrent.
+multicellular organismal process is a occurrent.
+biological regulation is a occurrent.
+localization is a occurrent.
+secretion is a occurrent.
+bodily process is a occurrent.
+hearing dental drill is a occurrent.
+health encounter avoidance behavior is a occurrent.
+muscle system process is a occurrent.
+dental care-related fear process is a occurrent.
+touching is a occurrent.
+secretion by tissue is a occurrent.
+health care process is a occurrent.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a occurrent.
+body fluid secretion is a occurrent.
+disease course is a occurrent.
+hearing is a occurrent.
+muscle tension response to emotion is a occurrent.
+dental procedure is a occurrent.
+process during dental visit is a occurrent.
+behavioral defense response is a occurrent.
+anxiety process is a occurrent.
+muscle contraction is a muscle system process.
+muscle tension response to emotion is a muscle system process.
+sweat secretion is a body fluid secretion.
+sweat secretion response to emotion is a body fluid secretion.
+adding material objective is a material combination objective.
+treatment is a health care process.
+dental visit is a health care process.
+local anaesthetic injection is a health care process.
+health care encounter is a health care process.
+outpatient encounter is a health care process.
+tooth drilling procedure is a health care process.
+tooth polishing procedure is a health care process.
+tooth scaling procedure is a health care process.
+tooth cleaning procedure is a health care process.
+tooth restoration procedure is a health care process.
+dental procedure is a health care process.
+dentine is a connective tissue.
+mineralized skeletal tissue is a connective tissue.
+skeletal tissue is a connective tissue.
+odontoid tissue is a connective tissue.
+tooth to be restored role is a target of material addition role.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a response to stress.
+dental visit avoidance behavior that involves canceling a dental appointment is a response to stress.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a response to stress.
+behavioral defense response is a response to stress.
+dental visit avoidance behavior is a response to stress.
+avoidance behavior is a response to stress.
+health encounter avoidance behavior is a response to stress.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a response to stress.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a response to stress.
+defense response is a response to stress.
+increased breathing rate response to emotion is a respiratory system process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a question about prior to dental visit.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a question about prior to dental visit.
+DFS 16. Seeing the drill. is a question about tooth drilling.
+DFS 17. Hearing the drill. is a question about tooth drilling.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a question about tooth drilling.
+DFS 18. Feeling the vibrations of the drill. is a question about tooth drilling.
+functional prosthetic role is a prosthetic role.
+DFS - frequency answer is a Dental Fear Survey (DFS) answer.
+DFS - somewhat is a Dental Fear Survey (DFS) answer.
+DFS - once or twice is a Dental Fear Survey (DFS) answer.
+DFS - never is a Dental Fear Survey (DFS) answer.
+DFS - often is a Dental Fear Survey (DFS) answer.
+DFS - none at all is a Dental Fear Survey (DFS) answer.
+DFS - much is a Dental Fear Survey (DFS) answer.
+DFS - a few times is a Dental Fear Survey (DFS) answer.
+DFS - level of fear, anxiety, or unpleasantness answer is a Dental Fear Survey (DFS) answer.
+DFS - nearly every time is a Dental Fear Survey (DFS) answer.
+DFS - very much is a Dental Fear Survey (DFS) answer.
+DFS - a little is a Dental Fear Survey (DFS) answer.
+DFS - never is a data item.
+DFS - somewhat is a data item.
+MDAS - Fairly anxious is a data item.
+DFS - none at all is a data item.
+dental fear survey answer is a data item.
+MDAS - Extremely anxious is a data item.
+dental fear survey assessment instrument answer is a data item.
+Dental Anxiety Scale (DAS) answer is a data item.
+DFS - a little is a data item.
+DFS - very much is a data item.
+DFS - much is a data item.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a data item.
+MDAS - Slightly anxious is a data item.
+DFS - level of fear, anxiety, or unpleasantness answer is a data item.
+DFS - nearly every time is a data item.
+DFS - a few times is a data item.
+Dental Fear Survey (DFS) answer is a data item.
+MDAS - Very anxious is a data item.
+DFS - once or twice is a data item.
+Modified Dental Anxiety Scale (MDAS) answer is a data item.
+DFS - frequency answer is a data item.
+MDAS - Not anxious is a data item.
+DFS - often is a data item.
+behavioral defense response is a response to stimulus.
+dental visit avoidance behavior that involves canceling a dental appointment is a response to stimulus.
+dental visit avoidance behavior is a response to stimulus.
+response to stress is a response to stimulus.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a response to stimulus.
+health encounter avoidance behavior is a response to stimulus.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a response to stimulus.
+avoidance behavior is a response to stimulus.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a response to stimulus.
+defense response is a response to stimulus.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a response to stimulus.
+embarrassment is a phenomenal cognitive experience.
+self-conscious emotional experience is a phenomenal cognitive experience.
+emotional experience is a phenomenal cognitive experience.
+tooth drilling procedure is a planned process.
+local anaesthetic injection is a planned process.
+health care encounter is a planned process.
+health care process is a planned process.
+dental visit is a planned process.
+tooth restoration procedure is a planned process.
+treatment is a planned process.
+tooth scaling procedure is a planned process.
+outpatient encounter is a planned process.
+tooth cleaning procedure is a planned process.
+dental procedure is a planned process.
+tooth polishing procedure is a planned process.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a assessment question.
+fear of severe pain question is a assessment question.
+DFS 08. Making an appointment for dentistry. is a assessment question.
+Dental Fear Survey (DFS) question is a assessment question.
+question about delay in scheduling a dental appointment is a assessment question.
+fear of minor pain question is a assessment question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a assessment question.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a assessment question.
+fear of pain question is a assessment question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a assessment question.
+DFS 18. Feeling the vibrations of the drill. is a assessment question.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a assessment question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a assessment question.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a assessment question.
+DFS 15. Feeling the needle injected. is a assessment question.
+DFS 14. Seeing the anesthetic needle. is a assessment question.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a assessment question.
+DFS 11. Being seated in the dental chair. is a assessment question.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a assessment question.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a assessment question.
+fear of specific dental stimuli question is a assessment question.
+DFS 20. All things considered, how fearful are you of having dental work done? is a assessment question.
+DFS 09. Approaching the dentist’s office. is a assessment question.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a assessment question.
+avoidance or anticipatory fear question is a assessment question.
+IDAF-4C+ 3i. Gagging or choking. is a assessment question.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a assessment question.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a assessment question.
+DFS 03. My muscles become tense. is a assessment question.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a assessment question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a assessment question.
+DFS 17. Hearing the drill. is a assessment question.
+DFS 06. I feel nauseated and sick to my stomach. is a assessment question.
+question about canceling or not showing up for a dental appointment is a assessment question.
+health encounter avoidance question is a assessment question.
+DFS 05. I perspire. is a assessment question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a assessment question.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a assessment question.
+DFS 13. Seeing the dentist walk in. is a assessment question.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a assessment question.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a assessment question.
+DFS 10. Sitting in the waiting room. is a assessment question.
+Dental Anxiety Scale (DAS) question is a assessment question.
+DFS 04. My breathing rate increases. is a assessment question.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a assessment question.
+IDAF-4C+ 3g. The cost of dental treatment. is a assessment question.
+IDAF-4C+ 3c. Not being in control of what is happening. is a assessment question.
+IDAF-4C+ 2. Do the following statements apply to you? is a assessment question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a assessment question.
+DFS 07. My heart beats faster. is a assessment question.
+Index of Dental Anxiety and Fear (IDAF-4C+) Question is a assessment question.
+dental visit avoidance question is a assessment question.
+DFS 19. Having your teeth cleaned. is a assessment question.
+fear of medical procedure question is a assessment question.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a assessment question.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a assessment question.
+IDAF-4C+ 3h. Needles or injections. is a assessment question.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a assessment question.
+IDAF-4C+ 1. How much do you agree with the following statements? is a assessment question.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a assessment question.
+avoidance behavior question is a assessment question.
+Modified Dental Anxiety Scale (MDAS) question is a assessment question.
+DFS 16. Seeing the drill. is a assessment question.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a assessment question.
+DFS 12. The smell of the dentist’s office. is a assessment question.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a assessment question.
+muscle tension response to emotion is a muscle contraction.
+smelling is a mental process.
+seeing anesthetic needle is a mental process.
+smelling dentist office is a mental process.
+hearing dental drill is a mental process.
+hearing is a mental process.
+seeing dentist is a mental process.
+feeling needle injection is a mental process.
+perception is a mental process.
+seeing is a mental process.
+feeling dental drill vibrations is a mental process.
+seeing dental drill is a mental process.
+touching is a mental process.
+dentine is a skeletal tissue.
+mineralized skeletal tissue is a skeletal tissue.
+odontoid tissue is a skeletal tissue.
+dentine is a tissue.
+mineralized skeletal tissue is a tissue.
+odontoid tissue is a tissue.
+skeletal tissue is a tissue.
+connective tissue is a tissue.
+DFS - somewhat is a DFS - level of fear, anxiety, or unpleasantness answer.
+DFS - none at all is a DFS - level of fear, anxiety, or unpleasantness answer.
+DFS - very much is a DFS - level of fear, anxiety, or unpleasantness answer.
+DFS - a little is a DFS - level of fear, anxiety, or unpleasantness answer.
+DFS - much is a DFS - level of fear, anxiety, or unpleasantness answer.
+heart process is a circulatory system process.
+increased heart response to emotion is a circulatory system process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a IDAF-4C+ 1. How much do you agree with the following statements?.
+patient sitting in waiting room is a sitting process.
+increased breathing rate response to emotion is a psychophysiological response to emotion.
+psychophysiological response to fear is a psychophysiological response to emotion.
+increased heart response to emotion is a psychophysiological response to emotion.
+sweat secretion response to emotion is a psychophysiological response to emotion.
+psychophysiological response to anxiety is a psychophysiological response to emotion.
+muscle tension response to emotion is a psychophysiological response to emotion.
+DFS - much is a dental fear survey answer.
+MDAS - Extremely anxious is a dental fear survey answer.
+DFS - nearly every time is a dental fear survey answer.
+dental fear survey assessment instrument answer is a dental fear survey answer.
+DFS - once or twice is a dental fear survey answer.
+Dental Anxiety Scale (DAS) answer is a dental fear survey answer.
+DFS - frequency answer is a dental fear survey answer.
+MDAS - Very anxious is a dental fear survey answer.
+DFS - very much is a dental fear survey answer.
+DFS - a few times is a dental fear survey answer.
+DFS - a little is a dental fear survey answer.
+Dental Fear Survey (DFS) answer is a dental fear survey answer.
+MDAS - Slightly anxious is a dental fear survey answer.
+DFS - none at all is a dental fear survey answer.
+MDAS - Not anxious is a dental fear survey answer.
+DFS - never is a dental fear survey answer.
+MDAS - Fairly anxious is a dental fear survey answer.
+Modified Dental Anxiety Scale (MDAS) answer is a dental fear survey answer.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a dental fear survey answer.
+DFS - often is a dental fear survey answer.
+DFS - somewhat is a dental fear survey answer.
+DFS - level of fear, anxiety, or unpleasantness answer is a dental fear survey answer.
+dentine is a neural crest-derived structure.
+infectious disease course is a disease course.
+dental caries disease course is a disease course.
+mineralized skeletal tissue is a material anatomical entity.
+anatomical structure is a material anatomical entity.
+structure with developmental contribution from neural crest is a material anatomical entity.
+restored tooth is a material anatomical entity.
+tooth-like structure is a material anatomical entity.
+skeletal element is a material anatomical entity.
+skeletal tissue is a material anatomical entity.
+tissue is a material anatomical entity.
+organ is a material anatomical entity.
+ectoderm-derived structure is a material anatomical entity.
+odontoid tissue is a material anatomical entity.
+calcareous tooth is a material anatomical entity.
+connective tissue is a material anatomical entity.
+neural crest-derived structure is a material anatomical entity.
+multicellular anatomical structure is a material anatomical entity.
+anatomical system is a material anatomical entity.
+dentine is a material anatomical entity.
+prosthetic tooth is a material entity.
+functional tooth is a material entity.
+anatomical system is a material entity.
+organ is a material entity.
+tissue is a material entity.
+dentine is a material entity.
+ectoderm-derived structure is a material entity.
+organism is a material entity.
+tooth-like structure is a material entity.
+dental restoration material is a material entity.
+dental healthcare provider is a material entity.
+calcareous tooth is a material entity.
+neural crest-derived structure is a material entity.
+restored tooth is a material entity.
+connective tissue is a material entity.
+mineralized skeletal tissue is a material entity.
+odontoid tissue is a material entity.
+Homo sapiens is a material entity.
+skeletal tissue is a material entity.
+processed material is a material entity.
+multicellular anatomical structure is a material entity.
+human dental patient is a material entity.
+anatomical structure is a material entity.
+material anatomical entity is a material entity.
+structure with developmental contribution from neural crest is a material entity.
+skeletal element is a material entity.
+healthcare provider is a material entity.
+prosthesis is a material entity.
+skeletal tissue is a continuant.
+dental fear and anxiety assessment instrument is a continuant.
+mineralized skeletal tissue is a continuant.
+objective specification is a continuant.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a continuant.
+material transformation objective is a continuant.
+DFS 09. Approaching the dentist’s office. is a continuant.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a continuant.
+Modified Dental Anxiety Scale (MDAS) is a continuant.
+organism is a continuant.
+DFS - a few times is a continuant.
+Dental Fear Survey (DFS) answer is a continuant.
+fear of pain question is a continuant.
+DFS 20. All things considered, how fearful are you of having dental work done? is a continuant.
+DFS - frequency answer is a continuant.
+DFS - a little is a continuant.
+dental fear survey answer is a continuant.
+Dental Anxiety Scale (DAS) question is a continuant.
+question about after dental visit is a continuant.
+DFS 16. Seeing the drill. is a continuant.
+fear of minor pain question is a continuant.
+structure with developmental contribution from neural crest is a continuant.
+prosthesis is a continuant.
+MDAS - Very anxious is a continuant.
+question about prior to dental visit is a continuant.
+IDAF-4C+ 2. Do the following statements apply to you? is a continuant.
+question about during dental visit is a continuant.
+IDAF-4C+ 3h. Needles or injections. is a continuant.
+DFS 05. I perspire. is a continuant.
+dental patient role is a continuant.
+health encounter avoidance question is a continuant.
+DFS - very much is a continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) is a continuant.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a continuant.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a continuant.
+dental fear survey assessment instrument answer is a continuant.
+patient role is a continuant.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a continuant.
+disease is a continuant.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a continuant.
+DFS 13. Seeing the dentist walk in. is a continuant.
+prosthetic tooth is a continuant.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a continuant.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a continuant.
+calcareous tooth is a continuant.
+dental restoration material role is a continuant.
+DFS 11. Being seated in the dental chair. is a continuant.
+fear of medical procedure question is a continuant.
+question about patient sitting in a waiting room is a continuant.
+connective tissue is a continuant.
+target of material addition role is a continuant.
+MDAS - Extremely anxious is a continuant.
+DFS 17. Hearing the drill. is a continuant.
+adding material objective is a continuant.
+DFS - often is a continuant.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a continuant.
+question about physiological arousal is a continuant.
+question about delay in scheduling a dental appointment is a continuant.
+dental procedure question is a continuant.
+processed material is a continuant.
+dental healthcare provider role is a continuant.
+material combination objective is a continuant.
+Homo sapiens is a continuant.
+dental fear and anxiety study dataset is a continuant.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a continuant.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a continuant.
+organ is a continuant.
+IDAF-4C+ 3g. The cost of dental treatment. is a continuant.
+DFS 10. Sitting in the waiting room. is a continuant.
+dental visit avoidance question is a continuant.
+Dental Anxiety Scale (DAS) is a continuant.
+question is a continuant.
+disposition is a continuant.
+MDAS - Slightly anxious is a continuant.
+prosthetic role is a continuant.
+realizable entity is a continuant.
+DFS 08. Making an appointment for dentistry. is a continuant.
+MDAS - Not anxious is a continuant.
+tooth to be restored role is a continuant.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a continuant.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a continuant.
+ectoderm-derived structure is a continuant.
+dataset is a continuant.
+anatomical system is a continuant.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a continuant.
+role is a continuant.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a continuant.
+DFS - nearly every time is a continuant.
+data item is a continuant.
+healthcare provider role is a continuant.
+functional prosthetic role is a continuant.
+DFS 14. Seeing the anesthetic needle. is a continuant.
+directive information entity is a continuant.
+DFS - never is a continuant.
+material entity is a continuant.
+independent continuant is a continuant.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a continuant.
+multicellular anatomical structure is a continuant.
+Dental Fear Survey (DFS) question is a continuant.
+DFS 03. My muscles become tense. is a continuant.
+DFS - much is a continuant.
+Dental Fear Survey (DFS) is a continuant.
+question about canceling or not showing up for a dental appointment is a continuant.
+neural crest-derived structure is a continuant.
+DFS 06. I feel nauseated and sick to my stomach. is a continuant.
+functional tooth is a continuant.
+avoidance behavior question is a continuant.
+fear of specific dental stimuli question is a continuant.
+IDAF-4C+ 3i. Gagging or choking. is a continuant.
+DFS 12. The smell of the dentist’s office. is a continuant.
+information content entity is a continuant.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a continuant.
+restored tooth is a continuant.
+DFS 19. Having your teeth cleaned. is a continuant.
+Modified Dental Anxiety Scale (MDAS) question is a continuant.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a continuant.
+avoidance or anticipatory fear question is a continuant.
+generically dependent continuant is a continuant.
+dental healthcare provider is a continuant.
+anatomical structure is a continuant.
+dental restoration material is a continuant.
+IDAF-4C+ 3c. Not being in control of what is happening. is a continuant.
+DFS - somewhat is a continuant.
+DFS - level of fear, anxiety, or unpleasantness answer is a continuant.
+specifically dependent continuant is a continuant.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a continuant.
+material to be added role is a continuant.
+DFS - none at all is a continuant.
+Dental Anxiety Scale (DAS) answer is a continuant.
+anatomical entity is a continuant.
+healthcare provider is a continuant.
+MDAS - Fairly anxious is a continuant.
+evaluative information entity is a continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a continuant.
+tissue is a continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) Question is a continuant.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a continuant.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a continuant.
+DFS 18. Feeling the vibrations of the drill. is a continuant.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a continuant.
+material anatomical entity is a continuant.
+DFS 04. My breathing rate increases. is a continuant.
+IDAF-4C+ 1. How much do you agree with the following statements? is a continuant.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a continuant.
+skeletal element is a continuant.
+question about embarrassment is a continuant.
+human dental patient is a continuant.
+fear of severe pain question is a continuant.
+DFS 07. My heart beats faster. is a continuant.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a continuant.
+infectious disease is a continuant.
+question about tooth drilling is a continuant.
+question about a tooth cleaning procedure is a continuant.
+odontoid tissue is a continuant.
+tooth-like structure is a continuant.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a continuant.
+DFS 15. Feeling the needle injected. is a continuant.
+assessment question is a continuant.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a continuant.
+dentine is a continuant.
+data collection is a continuant.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a continuant.
+DFS - once or twice is a continuant.
+Modified Dental Anxiety Scale (MDAS) answer is a continuant.
+secretion by tissue is a establishment of localization.
+secretion is a establishment of localization.
+body fluid secretion is a establishment of localization.
+sweat secretion is a establishment of localization.
+transport is a establishment of localization.
+sweat secretion response to emotion is a establishment of localization.
+adding material objective is a material transformation objective.
+material combination objective is a material transformation objective.
+restored tooth is a calcareous tooth.
+secretion by tissue is a localization.
+establishment of localization is a localization.
+sweat secretion response to emotion is a localization.
+transport is a localization.
+secretion is a localization.
+sweat secretion is a localization.
+body fluid secretion is a localization.
+dental visit is a health care encounter.
+local anaesthetic injection is a health care encounter.
+dental procedure is a health care encounter.
+tooth cleaning procedure is a health care encounter.
+tooth restoration procedure is a health care encounter.
+tooth drilling procedure is a health care encounter.
+outpatient encounter is a health care encounter.
+tooth polishing procedure is a health care encounter.
+tooth scaling procedure is a health care encounter.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a IDAF-4C+ 2. Do the following statements apply to you?.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a IDAF-4C+ 2. Do the following statements apply to you?.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a IDAF-4C+ 2. Do the following statements apply to you?.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a IDAF-4C+ 2. Do the following statements apply to you?.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a IDAF-4C+ 2. Do the following statements apply to you?.
+dental healthcare provider is a healthcare provider.
+Modified Dental Anxiety Scale (MDAS) is a evaluative information entity.
+Dental Fear Survey (DFS) is a evaluative information entity.
+dental fear and anxiety assessment instrument is a evaluative information entity.
+Dental Anxiety Scale (DAS) is a evaluative information entity.
+Index of Dental Anxiety and Fear (IDAF-4C+) is a evaluative information entity.
+IDAF-4C+ 3i. Gagging or choking. is a question.
+DFS 17. Hearing the drill. is a question.
+DFS 06. I feel nauseated and sick to my stomach. is a question.
+question about a tooth cleaning procedure is a question.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a question.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a question.
+assessment question is a question.
+question about embarrassment is a question.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a question.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a question.
+question about canceling or not showing up for a dental appointment is a question.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a question.
+DFS 14. Seeing the anesthetic needle. is a question.
+DFS 12. The smell of the dentist’s office. is a question.
+fear of pain question is a question.
+DFS 16. Seeing the drill. is a question.
+IDAF-4C+ 3h. Needles or injections. is a question.
+question about physiological arousal is a question.
+avoidance behavior question is a question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a question.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a question.
+IDAF-4C+ 1. How much do you agree with the following statements? is a question.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a question.
+DFS 15. Feeling the needle injected. is a question.
+Dental Fear Survey (DFS) question is a question.
+DFS 10. Sitting in the waiting room. is a question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a question.
+DFS 03. My muscles become tense. is a question.
+IDAF-4C+ 3g. The cost of dental treatment. is a question.
+fear of specific dental stimuli question is a question.
+question about prior to dental visit is a question.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a question.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a question.
+DFS 13. Seeing the dentist walk in. is a question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a question.
+DFS 18. Feeling the vibrations of the drill. is a question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a question.
+DFS 20. All things considered, how fearful are you of having dental work done? is a question.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a question.
+DFS 08. Making an appointment for dentistry. is a question.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a question.
+question about tooth drilling is a question.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a question.
+Index of Dental Anxiety and Fear (IDAF-4C+) Question is a question.
+DFS 19. Having your teeth cleaned. is a question.
+DFS 05. I perspire. is a question.
+question about patient sitting in a waiting room is a question.
+fear of minor pain question is a question.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a question.
+IDAF-4C+ 3c. Not being in control of what is happening. is a question.
+fear of severe pain question is a question.
+health encounter avoidance question is a question.
+question about during dental visit is a question.
+DFS 04. My breathing rate increases. is a question.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a question.
+question about after dental visit is a question.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a question.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a question.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a question.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a question.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a question.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a question.
+DFS 11. Being seated in the dental chair. is a question.
+Modified Dental Anxiety Scale (MDAS) question is a question.
+IDAF-4C+ 2. Do the following statements apply to you? is a question.
+dental visit avoidance question is a question.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a question.
+DFS 07. My heart beats faster. is a question.
+Dental Anxiety Scale (DAS) question is a question.
+dental procedure question is a question.
+avoidance or anticipatory fear question is a question.
+question about delay in scheduling a dental appointment is a question.
+fear of medical procedure question is a question.
+DFS 09. Approaching the dentist’s office. is a question.
+disposition is a realizable entity.
+disease is a realizable entity.
+target of material addition role is a realizable entity.
+role is a realizable entity.
+healthcare provider role is a realizable entity.
+functional prosthetic role is a realizable entity.
+dental patient role is a realizable entity.
+patient role is a realizable entity.
+dental healthcare provider role is a realizable entity.
+dental restoration material role is a realizable entity.
+prosthetic role is a realizable entity.
+infectious disease is a realizable entity.
+tooth to be restored role is a realizable entity.
+material to be added role is a realizable entity.
+health encounter avoidance behavior is a behavioral defense response.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a behavioral defense response.
+avoidance behavior is a behavioral defense response.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a behavioral defense response.
+dental visit avoidance behavior that involves canceling a dental appointment is a behavioral defense response.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a behavioral defense response.
+dental visit avoidance behavior is a behavioral defense response.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a behavioral defense response.
+disease is a specifically dependent continuant.
+target of material addition role is a specifically dependent continuant.
+dental patient role is a specifically dependent continuant.
+realizable entity is a specifically dependent continuant.
+disposition is a specifically dependent continuant.
+material to be added role is a specifically dependent continuant.
+role is a specifically dependent continuant.
+dental restoration material role is a specifically dependent continuant.
+functional prosthetic role is a specifically dependent continuant.
+dental healthcare provider role is a specifically dependent continuant.
+tooth to be restored role is a specifically dependent continuant.
+patient role is a specifically dependent continuant.
+infectious disease is a specifically dependent continuant.
+prosthetic role is a specifically dependent continuant.
+healthcare provider role is a specifically dependent continuant.
+anxiety process is a emotion process.
+fear process is a emotion process.
+dental care-related fear process is a emotion process.
+dental care-related anxiety process is a emotion process.
+prosthetic role is a material to be added role.
+dental restoration material role is a material to be added role.
+functional prosthetic role is a material to be added role.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a dental visit avoidance question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a dental visit avoidance question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a dental visit avoidance question.
+question about canceling or not showing up for a dental appointment is a dental visit avoidance question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a dental visit avoidance question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a dental visit avoidance question.
+question about delay in scheduling a dental appointment is a dental visit avoidance question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a dental visit avoidance question.
+seeing anesthetic needle is a seeing.
+seeing dentist is a seeing.
+seeing dental drill is a seeing.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a generically dependent continuant.
+directive information entity is a generically dependent continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) is a generically dependent continuant.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is a generically dependent continuant.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a generically dependent continuant.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a generically dependent continuant.
+objective specification is a generically dependent continuant.
+DFS - once or twice is a generically dependent continuant.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a generically dependent continuant.
+DFS 07. My heart beats faster. is a generically dependent continuant.
+question about tooth drilling is a generically dependent continuant.
+IDAF-4C+ 3h. Needles or injections. is a generically dependent continuant.
+IDAF-4C+ 2. Do the following statements apply to you? is a generically dependent continuant.
+DFS 12. The smell of the dentist’s office. is a generically dependent continuant.
+question about physiological arousal is a generically dependent continuant.
+fear of medical procedure question is a generically dependent continuant.
+Dental Fear Survey (DFS) question is a generically dependent continuant.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a generically dependent continuant.
+DFS 09. Approaching the dentist’s office. is a generically dependent continuant.
+question about canceling or not showing up for a dental appointment is a generically dependent continuant.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a generically dependent continuant.
+IDAF-4C+ 3c. Not being in control of what is happening. is a generically dependent continuant.
+DFS 04. My breathing rate increases. is a generically dependent continuant.
+DFS 16. Seeing the drill. is a generically dependent continuant.
+DFS - nearly every time is a generically dependent continuant.
+DFS 20. All things considered, how fearful are you of having dental work done? is a generically dependent continuant.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a generically dependent continuant.
+IDAF-4C+ 1. How much do you agree with the following statements? is a generically dependent continuant.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a generically dependent continuant.
+dental fear and anxiety assessment instrument is a generically dependent continuant.
+dental procedure question is a generically dependent continuant.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a generically dependent continuant.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a generically dependent continuant.
+Dental Anxiety Scale (DAS) is a generically dependent continuant.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a generically dependent continuant.
+MDAS - Not anxious is a generically dependent continuant.
+DFS 08. Making an appointment for dentistry. is a generically dependent continuant.
+fear of pain question is a generically dependent continuant.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a generically dependent continuant.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a generically dependent continuant.
+IDAF-4C+ 3i. Gagging or choking. is a generically dependent continuant.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a generically dependent continuant.
+Modified Dental Anxiety Scale (MDAS) question is a generically dependent continuant.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a generically dependent continuant.
+question about during dental visit is a generically dependent continuant.
+evaluative information entity is a generically dependent continuant.
+DFS 10. Sitting in the waiting room. is a generically dependent continuant.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a generically dependent continuant.
+material combination objective is a generically dependent continuant.
+question about a tooth cleaning procedure is a generically dependent continuant.
+fear of specific dental stimuli question is a generically dependent continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a generically dependent continuant.
+DFS 03. My muscles become tense. is a generically dependent continuant.
+question about patient sitting in a waiting room is a generically dependent continuant.
+fear of severe pain question is a generically dependent continuant.
+information content entity is a generically dependent continuant.
+question about after dental visit is a generically dependent continuant.
+MDAS - Fairly anxious is a generically dependent continuant.
+DFS 18. Feeling the vibrations of the drill. is a generically dependent continuant.
+Dental Fear Survey (DFS) is a generically dependent continuant.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a generically dependent continuant.
+Modified Dental Anxiety Scale (MDAS) is a generically dependent continuant.
+health encounter avoidance question is a generically dependent continuant.
+adding material objective is a generically dependent continuant.
+dental fear survey assessment instrument answer is a generically dependent continuant.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a generically dependent continuant.
+Index of Dental Anxiety and Fear (IDAF-4C+) Question is a generically dependent continuant.
+MDAS - Extremely anxious is a generically dependent continuant.
+DFS 14. Seeing the anesthetic needle. is a generically dependent continuant.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a generically dependent continuant.
+Dental Anxiety Scale (DAS) question is a generically dependent continuant.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a generically dependent continuant.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a generically dependent continuant.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is a generically dependent continuant.
+dataset is a generically dependent continuant.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a generically dependent continuant.
+DFS - frequency answer is a generically dependent continuant.
+DFS 05. I perspire. is a generically dependent continuant.
+Dental Anxiety Scale (DAS) answer is a generically dependent continuant.
+Dental Fear Survey (DFS) answer is a generically dependent continuant.
+DFS 15. Feeling the needle injected. is a generically dependent continuant.
+question about prior to dental visit is a generically dependent continuant.
+DFS - somewhat is a generically dependent continuant.
+DFS - often is a generically dependent continuant.
+DFS 06. I feel nauseated and sick to my stomach. is a generically dependent continuant.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a generically dependent continuant.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a generically dependent continuant.
+dental fear survey answer is a generically dependent continuant.
+IDAF-4C+ 3g. The cost of dental treatment. is a generically dependent continuant.
+fear of minor pain question is a generically dependent continuant.
+DFS - much is a generically dependent continuant.
+DFS 19. Having your teeth cleaned. is a generically dependent continuant.
+DFS 17. Hearing the drill. is a generically dependent continuant.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a generically dependent continuant.
+question about delay in scheduling a dental appointment is a generically dependent continuant.
+Modified Dental Anxiety Scale (MDAS) answer is a generically dependent continuant.
+dental visit avoidance question is a generically dependent continuant.
+data item is a generically dependent continuant.
+avoidance behavior question is a generically dependent continuant.
+question is a generically dependent continuant.
+MDAS - Very anxious is a generically dependent continuant.
+question about embarrassment is a generically dependent continuant.
+DFS 11. Being seated in the dental chair. is a generically dependent continuant.
+MDAS - Slightly anxious is a generically dependent continuant.
+DFS 13. Seeing the dentist walk in. is a generically dependent continuant.
+material transformation objective is a generically dependent continuant.
+data collection is a generically dependent continuant.
+DFS - none at all is a generically dependent continuant.
+avoidance or anticipatory fear question is a generically dependent continuant.
+assessment question is a generically dependent continuant.
+DFS - a few times is a generically dependent continuant.
+DFS - a little is a generically dependent continuant.
+DFS - level of fear, anxiety, or unpleasantness answer is a generically dependent continuant.
+DFS - very much is a generically dependent continuant.
+dental fear and anxiety study dataset is a generically dependent continuant.
+DFS - never is a generically dependent continuant.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a dental procedure question.
+IDAF-4C+ 3h. Needles or injections. is a dental procedure question.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a dental procedure question.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a dental procedure question.
+DFS 17. Hearing the drill. is a dental procedure question.
+DFS 19. Having your teeth cleaned. is a dental procedure question.
+DFS 16. Seeing the drill. is a dental procedure question.
+question about tooth drilling is a dental procedure question.
+question about a tooth cleaning procedure is a dental procedure question.
+DFS 18. Feeling the vibrations of the drill. is a dental procedure question.
+MDAS - Not anxious is a Modified Dental Anxiety Scale (MDAS) answer.
+MDAS - Very anxious is a Modified Dental Anxiety Scale (MDAS) answer.
+MDAS - Slightly anxious is a Modified Dental Anxiety Scale (MDAS) answer.
+MDAS - Fairly anxious is a Modified Dental Anxiety Scale (MDAS) answer.
+MDAS - Extremely anxious is a Modified Dental Anxiety Scale (MDAS) answer.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a question about canceling or not showing up for a dental appointment.
+DFS 17. Hearing the drill. is a fear of specific dental stimuli question.
+DFS 15. Feeling the needle injected. is a fear of specific dental stimuli question.
+DFS 19. Having your teeth cleaned. is a fear of specific dental stimuli question.
+DFS 16. Seeing the drill. is a fear of specific dental stimuli question.
+DFS 18. Feeling the vibrations of the drill. is a fear of specific dental stimuli question.
+DFS 14. Seeing the anesthetic needle. is a fear of specific dental stimuli question.
+dental healthcare provider role is a healthcare provider role.
+dental visit avoidance behavior that involves canceling a dental appointment is a health encounter avoidance behavior.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a health encounter avoidance behavior.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a health encounter avoidance behavior.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a health encounter avoidance behavior.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a health encounter avoidance behavior.
+dental visit avoidance behavior is a health encounter avoidance behavior.
+dental visit is a outpatient encounter.
+tooth polishing procedure is a tooth cleaning procedure.
+tooth scaling procedure is a tooth cleaning procedure.
+dental visit avoidance behavior that involves canceling a dental appointment is a dental visit avoidance behavior that involves canceling or not showing up for a dental appointment.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a dental visit avoidance behavior that involves canceling or not showing up for a dental appointment.
+DFS - often is a DFS - frequency answer.
+DFS - nearly every time is a DFS - frequency answer.
+DFS - never is a DFS - frequency answer.
+DFS - once or twice is a DFS - frequency answer.
+DFS - a few times is a DFS - frequency answer.
+prosthetic tooth is a prosthesis.
+dentine is a structure with developmental contribution from neural crest.
+neural crest-derived structure is a structure with developmental contribution from neural crest.
+restored tooth is a structure with developmental contribution from neural crest.
+calcareous tooth is a structure with developmental contribution from neural crest.
+muscle system process is a system process.
+phenomenal cognitive experience is a system process.
+muscle tension response to emotion is a system process.
+emotional experience is a system process.
+self-conscious emotional experience is a system process.
+muscle contraction is a system process.
+nervous system process is a system process.
+respiratory system process is a system process.
+heart process is a system process.
+increased breathing rate response to emotion is a system process.
+increased heart response to emotion is a system process.
+cognition is a system process.
+circulatory system process is a system process.
+embarrassment is a system process.
+disease is a disposition.
+infectious disease is a disposition.
+anxiety process is a behavior.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a behavior.
+health encounter avoidance behavior is a behavior.
+dental visit avoidance behavior is a behavior.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a behavior.
+behavioral defense response is a behavior.
+motor behavior is a behavior.
+avoidance behavior is a behavior.
+dental care-related fear process is a behavior.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a behavior.
+psychophysiological response to emotion is a behavior.
+fear process is a behavior.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a behavior.
+increased breathing rate response to emotion is a behavior.
+dental visit avoidance behavior that involves canceling a dental appointment is a behavior.
+psychophysiological response to fear is a behavior.
+increased heart response to emotion is a behavior.
+muscle tension response to emotion is a behavior.
+emotion process is a behavior.
+sweat secretion response to emotion is a behavior.
+psychophysiological response to anxiety is a behavior.
+dental care-related anxiety process is a behavior.
+sweat secretion response to emotion is a regulation of body fluid levels.
+sweat secretion is a regulation of body fluid levels.
+body fluid secretion is a regulation of body fluid levels.
+dental caries disease course is a infectious disease course.
+self-conscious emotional experience is a multicellular organismal process.
+fear process is a multicellular organismal process.
+avoidance behavior is a multicellular organismal process.
+nervous system process is a multicellular organismal process.
+increased breathing rate response to emotion is a multicellular organismal process.
+anxiety process is a multicellular organismal process.
+cognition is a multicellular organismal process.
+secretion by tissue is a multicellular organismal process.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a multicellular organismal process.
+increased heart response to emotion is a multicellular organismal process.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a multicellular organismal process.
+health encounter avoidance behavior is a multicellular organismal process.
+sweat secretion response to emotion is a multicellular organismal process.
+system process is a multicellular organismal process.
+respiratory system process is a multicellular organismal process.
+heart process is a multicellular organismal process.
+psychophysiological response to emotion is a multicellular organismal process.
+psychophysiological response to anxiety is a multicellular organismal process.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a multicellular organismal process.
+emotional experience is a multicellular organismal process.
+circulatory system process is a multicellular organismal process.
+muscle system process is a multicellular organismal process.
+muscle tension response to emotion is a multicellular organismal process.
+emotion process is a multicellular organismal process.
+psychophysiological response to fear is a multicellular organismal process.
+behavioral defense response is a multicellular organismal process.
+behavior is a multicellular organismal process.
+dental visit avoidance behavior is a multicellular organismal process.
+phenomenal cognitive experience is a multicellular organismal process.
+muscle contraction is a multicellular organismal process.
+dental visit avoidance behavior that involves canceling a dental appointment is a multicellular organismal process.
+embarrassment is a multicellular organismal process.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a multicellular organismal process.
+dental care-related anxiety process is a multicellular organismal process.
+dental care-related fear process is a multicellular organismal process.
+motor behavior is a multicellular organismal process.
+sweat secretion is a multicellular organismal process.
+nausea is a pathological bodily process.
+tooth scaling procedure is a dental procedure.
+tooth restoration procedure is a dental procedure.
+tooth cleaning procedure is a dental procedure.
+tooth polishing procedure is a dental procedure.
+tooth drilling procedure is a dental procedure.
+dental care-related anxiety process is a anxiety process.
+feeling dental drill vibrations is a touching.
+feeling needle injection is a touching.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3h. Needles or injections. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3g. The cost of dental treatment. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3c. Not being in control of what is happening. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2. Do the following statements apply to you? is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1. How much do you agree with the following statements? is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+IDAF-4C+ 3i. Gagging or choking. is a Index of Dental Anxiety and Fear (IDAF-4C+) Question.
+dentine is a ectoderm-derived structure.
+neural crest-derived structure is a ectoderm-derived structure.
+tooth restoration procedure is a process during dental visit.
+tooth polishing procedure is a process during dental visit.
+patient sitting in waiting room is a process during dental visit.
+dental procedure is a process during dental visit.
+tooth cleaning procedure is a process during dental visit.
+tooth scaling procedure is a process during dental visit.
+tooth drilling procedure is a process during dental visit.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a health encounter avoidance question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a health encounter avoidance question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a health encounter avoidance question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a health encounter avoidance question.
+dental visit avoidance question is a health encounter avoidance question.
+question about delay in scheduling a dental appointment is a health encounter avoidance question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a health encounter avoidance question.
+question about canceling or not showing up for a dental appointment is a health encounter avoidance question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a health encounter avoidance question.
+dentine is a mineralized skeletal tissue.
+DFS 05. I perspire. is a Dental Fear Survey (DFS) question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a Dental Fear Survey (DFS) question.
+question about delay in scheduling a dental appointment is a Dental Fear Survey (DFS) question.
+DFS 09. Approaching the dentist’s office. is a Dental Fear Survey (DFS) question.
+avoidance behavior question is a Dental Fear Survey (DFS) question.
+DFS 11. Being seated in the dental chair. is a Dental Fear Survey (DFS) question.
+DFS 06. I feel nauseated and sick to my stomach. is a Dental Fear Survey (DFS) question.
+fear of specific dental stimuli question is a Dental Fear Survey (DFS) question.
+DFS 10. Sitting in the waiting room. is a Dental Fear Survey (DFS) question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a Dental Fear Survey (DFS) question.
+fear of severe pain question is a Dental Fear Survey (DFS) question.
+health encounter avoidance question is a Dental Fear Survey (DFS) question.
+avoidance or anticipatory fear question is a Dental Fear Survey (DFS) question.
+DFS 14. Seeing the anesthetic needle. is a Dental Fear Survey (DFS) question.
+dental visit avoidance question is a Dental Fear Survey (DFS) question.
+DFS 07. My heart beats faster. is a Dental Fear Survey (DFS) question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a Dental Fear Survey (DFS) question.
+DFS 04. My breathing rate increases. is a Dental Fear Survey (DFS) question.
+DFS 19. Having your teeth cleaned. is a Dental Fear Survey (DFS) question.
+DFS 15. Feeling the needle injected. is a Dental Fear Survey (DFS) question.
+DFS 17. Hearing the drill. is a Dental Fear Survey (DFS) question.
+DFS 16. Seeing the drill. is a Dental Fear Survey (DFS) question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a Dental Fear Survey (DFS) question.
+fear of pain question is a Dental Fear Survey (DFS) question.
+fear of minor pain question is a Dental Fear Survey (DFS) question.
+DFS 03. My muscles become tense. is a Dental Fear Survey (DFS) question.
+fear of medical procedure question is a Dental Fear Survey (DFS) question.
+DFS 20. All things considered, how fearful are you of having dental work done? is a Dental Fear Survey (DFS) question.
+question about canceling or not showing up for a dental appointment is a Dental Fear Survey (DFS) question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a Dental Fear Survey (DFS) question.
+DFS 08. Making an appointment for dentistry. is a Dental Fear Survey (DFS) question.
+DFS 12. The smell of the dentist’s office. is a Dental Fear Survey (DFS) question.
+DFS 13. Seeing the dentist walk in. is a Dental Fear Survey (DFS) question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a Dental Fear Survey (DFS) question.
+DFS 18. Feeling the vibrations of the drill. is a Dental Fear Survey (DFS) question.
+sweat secretion response to emotion is a sweat secretion.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a question about delay in scheduling a dental appointment.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a question about delay in scheduling a dental appointment.
+tooth-like structure is a skeletal element.
+calcareous tooth is a skeletal element.
+restored tooth is a skeletal element.
+DFS 19. Having your teeth cleaned. is a question about a tooth cleaning procedure.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a question about a tooth cleaning procedure.
+DFS - never is a dental fear survey assessment instrument answer.
+Modified Dental Anxiety Scale (MDAS) answer is a dental fear survey assessment instrument answer.
+DFS - somewhat is a dental fear survey assessment instrument answer.
+DFS - level of fear, anxiety, or unpleasantness answer is a dental fear survey assessment instrument answer.
+DFS - very much is a dental fear survey assessment instrument answer.
+DFS - none at all is a dental fear survey assessment instrument answer.
+DFS - frequency answer is a dental fear survey assessment instrument answer.
+DFS - often is a dental fear survey assessment instrument answer.
+MDAS - Very anxious is a dental fear survey assessment instrument answer.
+DFS - once or twice is a dental fear survey assessment instrument answer.
+DFS - much is a dental fear survey assessment instrument answer.
+Dental Anxiety Scale (DAS) answer is a dental fear survey assessment instrument answer.
+DFS - a little is a dental fear survey assessment instrument answer.
+MDAS - Not anxious is a dental fear survey assessment instrument answer.
+Index of Dental Anxiety and Fear (IDAF-4C+) answer is a dental fear survey assessment instrument answer.
+DFS - nearly every time is a dental fear survey assessment instrument answer.
+MDAS - Slightly anxious is a dental fear survey assessment instrument answer.
+MDAS - Fairly anxious is a dental fear survey assessment instrument answer.
+MDAS - Extremely anxious is a dental fear survey assessment instrument answer.
+Dental Fear Survey (DFS) answer is a dental fear survey assessment instrument answer.
+DFS - a few times is a dental fear survey assessment instrument answer.
+feeling dental drill vibrations is a bodily process.
+seeing dentist is a bodily process.
+feeling needle injection is a bodily process.
+patient sitting in waiting room is a bodily process.
+sitting process is a bodily process.
+smelling is a bodily process.
+seeing dental drill is a bodily process.
+touching is a bodily process.
+nausea is a bodily process.
+smelling dentist office is a bodily process.
+hearing is a bodily process.
+pathological bodily process is a bodily process.
+seeing anesthetic needle is a bodily process.
+mental process is a bodily process.
+seeing is a bodily process.
+perception is a bodily process.
+hearing dental drill is a bodily process.
+dataset is a data collection.
+dental fear and anxiety study dataset is a data collection.
+dental healthcare provider is a organism.
+Homo sapiens is a organism.
+human dental patient is a organism.
+healthcare provider is a organism.
+restored tooth is a processed material.
+prosthetic tooth is a processed material.
+functional tooth is a processed material.
+calcareous tooth is a processed material.
+dental restoration material is a processed material.
+prosthesis is a processed material.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a defense response.
+dental visit avoidance behavior that involves canceling a dental appointment is a defense response.
+health encounter avoidance behavior is a defense response.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a defense response.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a defense response.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a defense response.
+avoidance behavior is a defense response.
+behavioral defense response is a defense response.
+dental visit avoidance behavior is a defense response.
+prosthetic tooth is a functional tooth.
+restored tooth is a functional tooth.
+calcareous tooth is a functional tooth.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a question about patient sitting in a waiting room.
+DFS 10. Sitting in the waiting room. is a question about patient sitting in a waiting room.
+material entity is a independent continuant.
+mineralized skeletal tissue is a independent continuant.
+dental restoration material is a independent continuant.
+tooth-like structure is a independent continuant.
+skeletal element is a independent continuant.
+prosthetic tooth is a independent continuant.
+Homo sapiens is a independent continuant.
+organism is a independent continuant.
+functional tooth is a independent continuant.
+connective tissue is a independent continuant.
+skeletal tissue is a independent continuant.
+material anatomical entity is a independent continuant.
+human dental patient is a independent continuant.
+healthcare provider is a independent continuant.
+multicellular anatomical structure is a independent continuant.
+dental healthcare provider is a independent continuant.
+dentine is a independent continuant.
+processed material is a independent continuant.
+calcareous tooth is a independent continuant.
+anatomical entity is a independent continuant.
+odontoid tissue is a independent continuant.
+prosthesis is a independent continuant.
+restored tooth is a independent continuant.
+tissue is a independent continuant.
+neural crest-derived structure is a independent continuant.
+anatomical structure is a independent continuant.
+structure with developmental contribution from neural crest is a independent continuant.
+organ is a independent continuant.
+anatomical system is a independent continuant.
+ectoderm-derived structure is a independent continuant.
+fear of medical procedure question is a avoidance or anticipatory fear question.
+DFS 13. Seeing the dentist walk in. is a avoidance or anticipatory fear question.
+DFS 10. Sitting in the waiting room. is a avoidance or anticipatory fear question.
+avoidance behavior question is a avoidance or anticipatory fear question.
+DFS 12. The smell of the dentist’s office. is a avoidance or anticipatory fear question.
+DFS 09. Approaching the dentist’s office. is a avoidance or anticipatory fear question.
+DFS 15. Feeling the needle injected. is a avoidance or anticipatory fear question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a avoidance or anticipatory fear question.
+DFS 18. Feeling the vibrations of the drill. is a avoidance or anticipatory fear question.
+health encounter avoidance question is a avoidance or anticipatory fear question.
+DFS 19. Having your teeth cleaned. is a avoidance or anticipatory fear question.
+fear of minor pain question is a avoidance or anticipatory fear question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a avoidance or anticipatory fear question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a avoidance or anticipatory fear question.
+fear of severe pain question is a avoidance or anticipatory fear question.
+fear of pain question is a avoidance or anticipatory fear question.
+question about canceling or not showing up for a dental appointment is a avoidance or anticipatory fear question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a avoidance or anticipatory fear question.
+DFS 11. Being seated in the dental chair. is a avoidance or anticipatory fear question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a avoidance or anticipatory fear question.
+DFS 08. Making an appointment for dentistry. is a avoidance or anticipatory fear question.
+DFS 14. Seeing the anesthetic needle. is a avoidance or anticipatory fear question.
+fear of specific dental stimuli question is a avoidance or anticipatory fear question.
+DFS 17. Hearing the drill. is a avoidance or anticipatory fear question.
+DFS 16. Seeing the drill. is a avoidance or anticipatory fear question.
+question about delay in scheduling a dental appointment is a avoidance or anticipatory fear question.
+dental visit avoidance question is a avoidance or anticipatory fear question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a avoidance or anticipatory fear question.
+calcareous tooth is a tooth-like structure.
+restored tooth is a tooth-like structure.
+phenomenal cognitive experience is a nervous system process.
+cognition is a nervous system process.
+self-conscious emotional experience is a nervous system process.
+emotional experience is a nervous system process.
+embarrassment is a nervous system process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is a question about physiological arousal.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a question about physiological arousal.
+DFS 06. I feel nauseated and sick to my stomach. is a question about physiological arousal.
+question about embarrassment is a question about physiological arousal.
+DFS 04. My breathing rate increases. is a question about physiological arousal.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a question about physiological arousal.
+DFS 07. My heart beats faster. is a question about physiological arousal.
+DFS 03. My muscles become tense. is a question about physiological arousal.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a question about physiological arousal.
+DFS 05. I perspire. is a question about physiological arousal.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is a question about physiological arousal.
+skeletal tissue is a multicellular anatomical structure.
+connective tissue is a multicellular anatomical structure.
+mineralized skeletal tissue is a multicellular anatomical structure.
+dentine is a multicellular anatomical structure.
+organ is a multicellular anatomical structure.
+odontoid tissue is a multicellular anatomical structure.
+tissue is a multicellular anatomical structure.
+restored tooth is a multicellular anatomical structure.
+skeletal element is a multicellular anatomical structure.
+tooth-like structure is a multicellular anatomical structure.
+calcareous tooth is a multicellular anatomical structure.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a avoidance behavior.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a avoidance behavior.
+dental visit avoidance behavior is a avoidance behavior.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a avoidance behavior.
+dental visit avoidance behavior that involves canceling a dental appointment is a avoidance behavior.
+health encounter avoidance behavior is a avoidance behavior.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a avoidance behavior.
+material combination objective is a directive information entity.
+material transformation objective is a directive information entity.
+adding material objective is a directive information entity.
+objective specification is a directive information entity.
+hearing is a perception.
+touching is a perception.
+seeing dental drill is a perception.
+seeing anesthetic needle is a perception.
+smelling is a perception.
+seeing dentist is a perception.
+smelling dentist office is a perception.
+hearing dental drill is a perception.
+feeling needle injection is a perception.
+feeling dental drill vibrations is a perception.
+seeing is a perception.
+DFS 16. Seeing the drill. is a question about during dental visit.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is a question about during dental visit.
+IDAF-4C+ 3c. Not being in control of what is happening. is a question about during dental visit.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is a question about during dental visit.
+DFS 10. Sitting in the waiting room. is a question about during dental visit.
+IDAF-4C+ 3i. Gagging or choking. is a question about during dental visit.
+IDAF-4C+ 3h. Needles or injections. is a question about during dental visit.
+DFS 17. Hearing the drill. is a question about during dental visit.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a question about during dental visit.
+question about patient sitting in a waiting room is a question about during dental visit.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a question about during dental visit.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a question about during dental visit.
+question about a tooth cleaning procedure is a question about during dental visit.
+DFS 19. Having your teeth cleaned. is a question about during dental visit.
+DFS 18. Feeling the vibrations of the drill. is a question about during dental visit.
+dental procedure question is a question about during dental visit.
+question about tooth drilling is a question about during dental visit.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is a question about during dental visit.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is a question about during dental visit.
+increased heart response to emotion is a process.
+phenomenal cognitive experience is a process.
+smelling dentist office is a process.
+muscle contraction is a process.
+touching is a process.
+system process is a process.
+seeing anesthetic needle is a process.
+avoidance behavior is a process.
+biological regulation is a process.
+response to stimulus is a process.
+regulation of body fluid levels is a process.
+anxiety process is a process.
+patient sitting in waiting room is a process.
+psychophysiological response to emotion is a process.
+bodily process is a process.
+transport is a process.
+sitting process is a process.
+outpatient encounter is a process.
+behavior is a process.
+circulatory system process is a process.
+body fluid secretion is a process.
+muscle tension response to emotion is a process.
+secretion is a process.
+embarrassment is a process.
+seeing dentist is a process.
+dental visit avoidance behavior that involves canceling a dental appointment is a process.
+dental care-related fear process is a process.
+health encounter avoidance behavior is a process.
+localization is a process.
+multicellular organismal process is a process.
+self-conscious emotional experience is a process.
+biological_process is a process.
+pathological bodily process is a process.
+behavioral defense response is a process.
+fear process is a process.
+secretion by tissue is a process.
+seeing is a process.
+tooth drilling procedure is a process.
+health care encounter is a process.
+establishment of localization is a process.
+muscle system process is a process.
+mental process is a process.
+seeing dental drill is a process.
+heart process is a process.
+dental visit avoidance behavior is a process.
+hearing dental drill is a process.
+hearing is a process.
+health care process is a process.
+regulation of biological quality is a process.
+emotional experience is a process.
+tooth polishing procedure is a process.
+cognition is a process.
+feeling dental drill vibrations is a process.
+tooth scaling procedure is a process.
+smelling is a process.
+dental visit avoidance behavior that involves canceling or not showing up for a dental appointment is a process.
+tooth cleaning procedure is a process.
+tooth restoration procedure is a process.
+process before dental visit is a process.
+dental caries disease course is a process.
+emotion process is a process.
+dental visit is a process.
+psychophysiological response to fear is a process.
+motor behavior is a process.
+nervous system process is a process.
+dental procedure is a process.
+disease course is a process.
+tooth cleaning process is a process.
+treatment is a process.
+health care encounter avoidance behavior that involves delay in scheduling a health care appointment is a process.
+local anaesthetic injection is a process.
+dental care-related anxiety process is a process.
+process after dental visit is a process.
+psychophysiological response to anxiety is a process.
+sweat secretion response to emotion is a process.
+locomotion is a process.
+defense response is a process.
+feeling needle injection is a process.
+sweat secretion is a process.
+increased breathing rate response to emotion is a process.
+dental visit avoidance behavior that involves delay in scheduling a dental appointment is a process.
+nausea is a process.
+perception is a process.
+respiratory system process is a process.
+planned process is a process.
+process during dental visit is a process.
+dental visit avoidance behavior that involves not showing up for a dental appointment is a process.
+infectious disease course is a process.
+response to stress is a process.
+smelling dentist office is a smelling.
+infectious disease is a disease.
+mineralized skeletal tissue is a anatomical structure.
+skeletal tissue is a anatomical structure.
+multicellular anatomical structure is a anatomical structure.
+dentine is a anatomical structure.
+connective tissue is a anatomical structure.
+organ is a anatomical structure.
+odontoid tissue is a anatomical structure.
+ectoderm-derived structure is a anatomical structure.
+neural crest-derived structure is a anatomical structure.
+tissue is a anatomical structure.
+calcareous tooth is a anatomical structure.
+skeletal element is a anatomical structure.
+tooth-like structure is a anatomical structure.
+anatomical system is a anatomical structure.
+restored tooth is a anatomical structure.
+structure with developmental contribution from neural crest is a anatomical structure.
+dentine is a odontoid tissue.
+IDAF-4C+ 3h. Needles or injections. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3i. Gagging or choking. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3c. Not being in control of what is happening. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3g. The cost of dental treatment. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is a IDAF-4C+ 3. To what extent are you anxious about the following things when you go the dentist..
+self-conscious emotional experience is a emotional experience.
+embarrassment is a emotional experience.
+question about delay in scheduling a dental appointment is a avoidance behavior question.
+health encounter avoidance question is a avoidance behavior question.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is a avoidance behavior question.
+question about canceling or not showing up for a dental appointment is a avoidance behavior question.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is a avoidance behavior question.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a avoidance behavior question.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is a avoidance behavior question.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is a avoidance behavior question.
+dental visit avoidance question is a avoidance behavior question.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is a avoidance behavior question.
+emotional experience is a cognition.
+embarrassment is a cognition.
+self-conscious emotional experience is a cognition.
+phenomenal cognitive experience is a cognition.
+sweat secretion is a secretion by tissue.
+sweat secretion response to emotion is a secretion by tissue.
+restored tooth is a organ.
+skeletal element is a organ.
+tooth-like structure is a organ.
+calcareous tooth is a organ.
+increased heart response to emotion is a heart process.
+target of material addition role is a role.
+dental restoration material role is a role.
+material to be added role is a role.
+tooth to be restored role is a role.
+prosthetic role is a role.
+functional prosthetic role is a role.
+dental patient role is a role.
+patient role is a role.
+healthcare provider role is a role.
+dental healthcare provider role is a role.
+hearing dental drill is a hearing.
+human dental patient is a Homo sapiens.
+dental healthcare provider is a Homo sapiens.
+healthcare provider is a Homo sapiens.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is a question about embarrassment.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is a question about embarrassment.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is a question about embarrassment.
+dentine is a anatomical entity.
+restored tooth is a anatomical entity.
+anatomical system is a anatomical entity.
+anatomical structure is a anatomical entity.
+mineralized skeletal tissue is a anatomical entity.
+tissue is a anatomical entity.
+skeletal tissue is a anatomical entity.
+multicellular anatomical structure is a anatomical entity.
+tooth-like structure is a anatomical entity.
+organ is a anatomical entity.
+skeletal element is a anatomical entity.
+ectoderm-derived structure is a anatomical entity.
+odontoid tissue is a anatomical entity.
+material anatomical entity is a anatomical entity.
+structure with developmental contribution from neural crest is a anatomical entity.
+neural crest-derived structure is a anatomical entity.
+calcareous tooth is a anatomical entity.
+connective tissue is a anatomical entity.
+process before dental visit precedes occurrent.
+tooth to be restored role inheres in continuant.
+healthcare provider role inheres in continuant.
+dental restoration material role inheres in continuant.
+dental patient role inheres in continuant.
+dental healthcare provider role inheres in continuant.
+functional prosthetic role inheres in continuant.
+prosthetic role inheres in continuant.
+tooth scaling procedure has participant continuant.
+tooth cleaning procedure has participant continuant.
+tooth restoration procedure has participant continuant.
+tooth cleaning process has participant continuant.
+tooth polishing procedure has participant continuant.
+process after dental visit preceded by occurrent.
+tooth restoration procedure achieves planned objective continuant.
+tooth scaling procedure happens during occurrent.
+tooth cleaning procedure happens during occurrent.
+tooth restoration procedure happens during occurrent.
+dental procedure happens during occurrent.
+tooth drilling procedure happens during occurrent.
+tooth polishing procedure happens during occurrent.
+patient sitting in waiting room happens during occurrent.
+prosthetic tooth is bearer of continuant.
+dental restoration material is bearer of continuant.
+restored tooth has part continuant.
+anatomical system has part continuant.
+calcareous tooth has part continuant.
+tooth to be restored role realized in occurrent.
+dental patient role realized in occurrent.
+dental healthcare provider role realized in occurrent.
+healthcare provider role realized in occurrent.
+IDAF-4C+ 3g. The cost of dental treatment. is about occurrent.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about occurrent.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about occurrent.
+DFS 04. My breathing rate increases. is about occurrent.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about occurrent.
+DFS 11. Being seated in the dental chair. is about occurrent.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about occurrent.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about occurrent.
+question about patient sitting in a waiting room is about occurrent.
+DFS 06. I feel nauseated and sick to my stomach. is about occurrent.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about occurrent.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about occurrent.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about occurrent.
+DFS 19. Having your teeth cleaned. is about occurrent.
+DFS 18. Feeling the vibrations of the drill. is about occurrent.
+DFS 15. Feeling the needle injected. is about occurrent.
+DFS 08. Making an appointment for dentistry. is about occurrent.
+IDAF-4C+ 3h. Needles or injections. is about occurrent.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about occurrent.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about occurrent.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about occurrent.
+question about a tooth cleaning procedure is about occurrent.
+question about tooth drilling is about occurrent.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about occurrent.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about occurrent.
+question about prior to dental visit is about occurrent.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about occurrent.
+DFS 13. Seeing the dentist walk in. is about occurrent.
+DFS 03. My muscles become tense. is about occurrent.
+dental procedure question is about occurrent.
+IDAF-4C+ 3c. Not being in control of what is happening. is about occurrent.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about occurrent.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about occurrent.
+DFS 09. Approaching the dentist’s office. is about occurrent.
+DFS 14. Seeing the anesthetic needle. is about occurrent.
+DFS 12. The smell of the dentist’s office. is about occurrent.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about occurrent.
+DFS 07. My heart beats faster. is about occurrent.
+IDAF-4C+ 3i. Gagging or choking. is about occurrent.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about occurrent.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about occurrent.
+DFS 05. I perspire. is about occurrent.
+DFS 20. All things considered, how fearful are you of having dental work done? is about occurrent.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about occurrent.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about occurrent.
+question about during dental visit is about occurrent.
+question about after dental visit is about occurrent.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about occurrent.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is about occurrent.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about occurrent.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about occurrent.
+DFS 10. Sitting in the waiting room. is about occurrent.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about occurrent.
+DFS 17. Hearing the drill. is about occurrent.
+DFS 16. Seeing the drill. is about occurrent.
+psychophysiological response to anxiety part of occurrent.
+sweat secretion response to emotion part of occurrent.
+increased heart response to emotion part of occurrent.
+muscle tension response to emotion part of occurrent.
+increased breathing rate response to emotion part of occurrent.
+psychophysiological response to fear part of occurrent.
+self-conscious emotional experience part of occurrent.
+embarrassment part of occurrent.
+emotional experience part of occurrent.
+psychophysiological response to emotion part of occurrent.
+tooth-like structure part of continuant.
+skeletal tissue part of continuant.
+organ part of continuant.
+skeletal element part of continuant.
+odontoid tissue part of continuant.
+dentine part of continuant.
+calcareous tooth part of continuant.
+mineralized skeletal tissue part of continuant.
+restored tooth part of continuant.
+tooth polishing procedure realizes continuant.
+dental visit realizes continuant.
+tooth restoration procedure realizes continuant.
+tooth scaling procedure realizes continuant.
+tooth drilling procedure realizes continuant.
+dental procedure realizes continuant.
+patient sitting in waiting room realizes continuant.
+tooth cleaning procedure realizes continuant.
+dental restoration material is bearer of specifically dependent continuant.
+prosthetic tooth is bearer of specifically dependent continuant.
+tooth restoration procedure has participant independent continuant.
+tooth cleaning procedure has participant independent continuant.
+tooth polishing procedure has participant independent continuant.
+tooth scaling procedure has participant independent continuant.
+tooth cleaning process has participant independent continuant.
+process before dental visit precedes process.
+dental procedure happens during process.
+tooth restoration procedure happens during process.
+patient sitting in waiting room happens during process.
+tooth cleaning procedure happens during process.
+tooth drilling procedure happens during process.
+tooth scaling procedure happens during process.
+tooth polishing procedure happens during process.
+tooth restoration procedure achieves planned objective generically dependent continuant.
+process after dental visit preceded by process.
+prosthetic role inheres in independent continuant.
+dental patient role inheres in independent continuant.
+tooth to be restored role inheres in independent continuant.
+healthcare provider role inheres in independent continuant.
+dental healthcare provider role inheres in independent continuant.
+dental restoration material role inheres in independent continuant.
+functional prosthetic role inheres in independent continuant.
+anatomical system has part independent continuant.
+restored tooth has part independent continuant.
+calcareous tooth has part independent continuant.
+dental patient role realized in process.
+dental healthcare provider role realized in process.
+tooth to be restored role realized in process.
+healthcare provider role realized in process.
+IDAF-4C+ 3c. Not being in control of what is happening. is about process.
+DFS 17. Hearing the drill. is about process.
+DFS 07. My heart beats faster. is about process.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about process.
+DFS 12. The smell of the dentist’s office. is about process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about process.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about process.
+DFS 10. Sitting in the waiting room. is about process.
+dental procedure question is about process.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about process.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about process.
+DFS 13. Seeing the dentist walk in. is about process.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about process.
+question about a tooth cleaning procedure is about process.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about process.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about process.
+DFS 11. Being seated in the dental chair. is about process.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about process.
+IDAF-4C+ 3g. The cost of dental treatment. is about process.
+DFS 09. Approaching the dentist’s office. is about process.
+DFS 06. I feel nauseated and sick to my stomach. is about process.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is about process.
+DFS 14. Seeing the anesthetic needle. is about process.
+DFS 16. Seeing the drill. is about process.
+DFS 18. Feeling the vibrations of the drill. is about process.
+DFS 15. Feeling the needle injected. is about process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about process.
+DFS 20. All things considered, how fearful are you of having dental work done? is about process.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about process.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about process.
+question about during dental visit is about process.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about process.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about process.
+DFS 19. Having your teeth cleaned. is about process.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about process.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about process.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about process.
+DFS 08. Making an appointment for dentistry. is about process.
+DFS 04. My breathing rate increases. is about process.
+question about patient sitting in a waiting room is about process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about process.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about process.
+question about prior to dental visit is about process.
+IDAF-4C+ 3i. Gagging or choking. is about process.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about process.
+DFS 03. My muscles become tense. is about process.
+question about after dental visit is about process.
+DFS 05. I perspire. is about process.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about process.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about process.
+question about tooth drilling is about process.
+IDAF-4C+ 3h. Needles or injections. is about process.
+muscle tension response to emotion part of process.
+self-conscious emotional experience part of process.
+emotional experience part of process.
+increased heart response to emotion part of process.
+increased breathing rate response to emotion part of process.
+psychophysiological response to anxiety part of process.
+psychophysiological response to emotion part of process.
+embarrassment part of process.
+psychophysiological response to fear part of process.
+sweat secretion response to emotion part of process.
+odontoid tissue part of independent continuant.
+restored tooth part of independent continuant.
+organ part of independent continuant.
+skeletal element part of independent continuant.
+tooth-like structure part of independent continuant.
+dentine part of independent continuant.
+calcareous tooth part of independent continuant.
+mineralized skeletal tissue part of independent continuant.
+skeletal tissue part of independent continuant.
+tooth restoration procedure realizes specifically dependent continuant.
+tooth polishing procedure realizes specifically dependent continuant.
+dental visit realizes specifically dependent continuant.
+tooth cleaning procedure realizes specifically dependent continuant.
+tooth drilling procedure realizes specifically dependent continuant.
+dental procedure realizes specifically dependent continuant.
+patient sitting in waiting room realizes specifically dependent continuant.
+tooth scaling procedure realizes specifically dependent continuant.
+prosthetic tooth is bearer of realizable entity.
+dental restoration material is bearer of realizable entity.
+tooth cleaning procedure has participant material entity.
+tooth polishing procedure has participant material entity.
+tooth restoration procedure has participant material entity.
+tooth cleaning process has participant material entity.
+tooth scaling procedure has participant material entity.
+tooth polishing procedure has participant anatomical entity.
+tooth cleaning process has participant anatomical entity.
+tooth cleaning procedure has participant anatomical entity.
+tooth restoration procedure has participant anatomical entity.
+tooth scaling procedure has participant anatomical entity.
+process before dental visit precedes planned process.
+tooth restoration procedure happens during planned process.
+tooth cleaning procedure happens during planned process.
+tooth drilling procedure happens during planned process.
+tooth polishing procedure happens during planned process.
+dental procedure happens during planned process.
+patient sitting in waiting room happens during planned process.
+tooth scaling procedure happens during planned process.
+tooth restoration procedure achieves planned objective information content entity.
+process after dental visit preceded by planned process.
+prosthetic role inheres in material entity.
+dental patient role inheres in material entity.
+tooth to be restored role inheres in material entity.
+dental restoration material role inheres in material entity.
+healthcare provider role inheres in material entity.
+functional prosthetic role inheres in material entity.
+dental healthcare provider role inheres in material entity.
+restored tooth has part material entity.
+anatomical system has part material entity.
+calcareous tooth has part material entity.
+anatomical system has part anatomical entity.
+restored tooth has part anatomical entity.
+calcareous tooth has part anatomical entity.
+dental healthcare provider role realized in process during dental visit.
+tooth to be restored role realized in process during dental visit.
+dental patient role realized in process during dental visit.
+tooth to be restored role realized in planned process.
+healthcare provider role realized in planned process.
+dental patient role realized in planned process.
+dental healthcare provider role realized in planned process.
+IDAF-4C+ 3i. Gagging or choking. is about biological_process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about biological_process.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about biological_process.
+DFS 15. Feeling the needle injected. is about biological_process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about biological_process.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about biological_process.
+DFS 04. My breathing rate increases. is about biological_process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about biological_process.
+DFS 12. The smell of the dentist’s office. is about biological_process.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about biological_process.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about biological_process.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about biological_process.
+DFS 16. Seeing the drill. is about biological_process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about biological_process.
+DFS 10. Sitting in the waiting room. is about biological_process.
+DFS 13. Seeing the dentist walk in. is about biological_process.
+DFS 18. Feeling the vibrations of the drill. is about biological_process.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about biological_process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about biological_process.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about biological_process.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about biological_process.
+IDAF-4C+ 3h. Needles or injections. is about biological_process.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about biological_process.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about biological_process.
+DFS 06. I feel nauseated and sick to my stomach. is about biological_process.
+DFS 14. Seeing the anesthetic needle. is about biological_process.
+IDAF-4C+ 3c. Not being in control of what is happening. is about biological_process.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about biological_process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about biological_process.
+DFS 08. Making an appointment for dentistry. is about biological_process.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about biological_process.
+IDAF-4C+ 3g. The cost of dental treatment. is about biological_process.
+DFS 09. Approaching the dentist’s office. is about biological_process.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about biological_process.
+DFS 19. Having your teeth cleaned. is about biological_process.
+DFS 03. My muscles become tense. is about biological_process.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about biological_process.
+DFS 05. I perspire. is about biological_process.
+DFS 07. My heart beats faster. is about biological_process.
+DFS 11. Being seated in the dental chair. is about biological_process.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about biological_process.
+DFS 20. All things considered, how fearful are you of having dental work done? is about biological_process.
+DFS 17. Hearing the drill. is about biological_process.
+DFS 19. Having your teeth cleaned. is about tooth cleaning process.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about tooth cleaning process.
+question about after dental visit is about process after dental visit.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about process before dental visit.
+question about prior to dental visit is about process before dental visit.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about process before dental visit.
+DFS 07. My heart beats faster. is about planned process.
+DFS 03. My muscles become tense. is about planned process.
+DFS 19. Having your teeth cleaned. is about planned process.
+DFS 17. Hearing the drill. is about planned process.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is about planned process.
+DFS 06. I feel nauseated and sick to my stomach. is about planned process.
+DFS 04. My breathing rate increases. is about planned process.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about planned process.
+DFS 05. I perspire. is about planned process.
+DFS 16. Seeing the drill. is about planned process.
+DFS 18. Feeling the vibrations of the drill. is about planned process.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about planned process.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about planned process.
+IDAF-4C+ 3h. Needles or injections. is about planned process.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about planned process.
+dental procedure question is about process during dental visit.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about process during dental visit.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about process during dental visit.
+DFS 16. Seeing the drill. is about process during dental visit.
+question about a tooth cleaning procedure is about process during dental visit.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about process during dental visit.
+DFS 10. Sitting in the waiting room. is about process during dental visit.
+IDAF-4C+ 3i. Gagging or choking. is about process during dental visit.
+IDAF-4C+ 3c. Not being in control of what is happening. is about process during dental visit.
+DFS 18. Feeling the vibrations of the drill. is about process during dental visit.
+question about patient sitting in a waiting room is about process during dental visit.
+DFS 17. Hearing the drill. is about process during dental visit.
+question about during dental visit is about process during dental visit.
+IDAF-4C+ 3h. Needles or injections. is about process during dental visit.
+DFS 19. Having your teeth cleaned. is about process during dental visit.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about process during dental visit.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about process during dental visit.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about process during dental visit.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about process during dental visit.
+question about tooth drilling is about process during dental visit.
+DFS 11. Being seated in the dental chair. is about bodily process.
+DFS 14. Seeing the anesthetic needle. is about bodily process.
+DFS 12. The smell of the dentist’s office. is about bodily process.
+DFS 18. Feeling the vibrations of the drill. is about bodily process.
+DFS 15. Feeling the needle injected. is about bodily process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about bodily process.
+DFS 06. I feel nauseated and sick to my stomach. is about bodily process.
+DFS 10. Sitting in the waiting room. is about bodily process.
+DFS 16. Seeing the drill. is about bodily process.
+DFS 17. Hearing the drill. is about bodily process.
+DFS 13. Seeing the dentist walk in. is about bodily process.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about bodily process.
+sweat secretion response to emotion part of biological_process.
+increased heart response to emotion part of biological_process.
+self-conscious emotional experience part of biological_process.
+psychophysiological response to fear part of biological_process.
+psychophysiological response to anxiety part of biological_process.
+increased breathing rate response to emotion part of biological_process.
+embarrassment part of biological_process.
+psychophysiological response to emotion part of biological_process.
+emotional experience part of biological_process.
+muscle tension response to emotion part of biological_process.
+tooth-like structure part of material entity.
+dentine part of material entity.
+odontoid tissue part of material entity.
+skeletal element part of material entity.
+organ part of material entity.
+calcareous tooth part of material entity.
+mineralized skeletal tissue part of material entity.
+skeletal tissue part of material entity.
+restored tooth part of material entity.
+skeletal tissue part of anatomical entity.
+mineralized skeletal tissue part of anatomical entity.
+skeletal element part of anatomical entity.
+tooth-like structure part of anatomical entity.
+organ part of anatomical entity.
+restored tooth part of anatomical entity.
+dentine part of anatomical entity.
+odontoid tissue part of anatomical entity.
+calcareous tooth part of anatomical entity.
+tooth drilling procedure realizes realizable entity.
+dental procedure realizes realizable entity.
+patient sitting in waiting room realizes realizable entity.
+tooth restoration procedure realizes realizable entity.
+tooth cleaning procedure realizes realizable entity.
+tooth polishing procedure realizes realizable entity.
+tooth scaling procedure realizes realizable entity.
+dental visit realizes realizable entity.
+dental restoration material is bearer of role.
+prosthetic tooth is bearer of role.
+tooth cleaning procedure has participant processed material.
+tooth restoration procedure has participant processed material.
+tooth cleaning process has participant processed material.
+tooth polishing procedure has participant processed material.
+tooth scaling procedure has participant processed material.
+tooth scaling procedure has participant material anatomical entity.
+tooth cleaning procedure has participant material anatomical entity.
+tooth polishing procedure has participant material anatomical entity.
+tooth restoration procedure has participant material anatomical entity.
+tooth cleaning process has participant material anatomical entity.
+process before dental visit precedes health care process.
+tooth drilling procedure happens during health care process.
+tooth polishing procedure happens during health care process.
+tooth cleaning procedure happens during health care process.
+tooth restoration procedure happens during health care process.
+dental procedure happens during health care process.
+tooth scaling procedure happens during health care process.
+patient sitting in waiting room happens during health care process.
+tooth restoration procedure achieves planned objective directive information entity.
+process after dental visit preceded by health care process.
+healthcare provider role inheres in organism.
+dental healthcare provider role inheres in organism.
+dental patient role inheres in organism.
+tooth to be restored role inheres in processed material.
+calcareous tooth has part material anatomical entity.
+restored tooth has part material anatomical entity.
+anatomical system has part material anatomical entity.
+dental healthcare provider role realized in dental procedure.
+dental patient role realized in dental procedure.
+tooth to be restored role realized in dental procedure.
+healthcare provider role realized in health care process.
+dental healthcare provider role realized in health care process.
+tooth to be restored role realized in health care process.
+dental patient role realized in health care process.
+DFS 05. I perspire. is about localization.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about localization.
+DFS 09. Approaching the dentist’s office. is about locomotion.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about response to stimulus.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about response to stimulus.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about response to stimulus.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about response to stimulus.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about response to stimulus.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about response to stimulus.
+IDAF-4C+ 3c. Not being in control of what is happening. is about multicellular organismal process.
+DFS 04. My breathing rate increases. is about multicellular organismal process.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about multicellular organismal process.
+DFS 16. Seeing the drill. is about multicellular organismal process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about multicellular organismal process.
+DFS 03. My muscles become tense. is about multicellular organismal process.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about multicellular organismal process.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about multicellular organismal process.
+DFS 05. I perspire. is about multicellular organismal process.
+DFS 06. I feel nauseated and sick to my stomach. is about multicellular organismal process.
+DFS 20. All things considered, how fearful are you of having dental work done? is about multicellular organismal process.
+DFS 07. My heart beats faster. is about multicellular organismal process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about multicellular organismal process.
+DFS 15. Feeling the needle injected. is about multicellular organismal process.
+IDAF-4C+ 3h. Needles or injections. is about multicellular organismal process.
+DFS 14. Seeing the anesthetic needle. is about multicellular organismal process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about multicellular organismal process.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about multicellular organismal process.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about multicellular organismal process.
+IDAF-4C+ 3i. Gagging or choking. is about multicellular organismal process.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about multicellular organismal process.
+DFS 08. Making an appointment for dentistry. is about multicellular organismal process.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about multicellular organismal process.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about multicellular organismal process.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about multicellular organismal process.
+IDAF-4C+ 3g. The cost of dental treatment. is about multicellular organismal process.
+DFS 13. Seeing the dentist walk in. is about multicellular organismal process.
+DFS 09. Approaching the dentist’s office. is about multicellular organismal process.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about multicellular organismal process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about multicellular organismal process.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about multicellular organismal process.
+DFS 18. Feeling the vibrations of the drill. is about multicellular organismal process.
+DFS 19. Having your teeth cleaned. is about multicellular organismal process.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about multicellular organismal process.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about multicellular organismal process.
+DFS 11. Being seated in the dental chair. is about multicellular organismal process.
+DFS 17. Hearing the drill. is about multicellular organismal process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about multicellular organismal process.
+DFS 12. The smell of the dentist’s office. is about multicellular organismal process.
+DFS 10. Sitting in the waiting room. is about multicellular organismal process.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about multicellular organismal process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about multicellular organismal process.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about multicellular organismal process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about biological regulation.
+DFS 05. I perspire. is about biological regulation.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about tooth cleaning procedure.
+DFS 19. Having your teeth cleaned. is about tooth cleaning procedure.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about health care process.
+DFS 18. Feeling the vibrations of the drill. is about health care process.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about health care process.
+DFS 05. I perspire. is about health care process.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about health care process.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is about health care process.
+DFS 03. My muscles become tense. is about health care process.
+DFS 07. My heart beats faster. is about health care process.
+DFS 19. Having your teeth cleaned. is about health care process.
+DFS 17. Hearing the drill. is about health care process.
+DFS 04. My breathing rate increases. is about health care process.
+DFS 06. I feel nauseated and sick to my stomach. is about health care process.
+DFS 16. Seeing the drill. is about health care process.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about health care process.
+IDAF-4C+ 3h. Needles or injections. is about health care process.
+DFS 10. Sitting in the waiting room. is about patient sitting in waiting room.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about patient sitting in waiting room.
+DFS 16. Seeing the drill. is about dental procedure.
+IDAF-4C+ 3h. Needles or injections. is about dental procedure.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about dental procedure.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about dental procedure.
+DFS 18. Feeling the vibrations of the drill. is about dental procedure.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about dental procedure.
+DFS 17. Hearing the drill. is about dental procedure.
+DFS 19. Having your teeth cleaned. is about dental procedure.
+DFS 18. Feeling the vibrations of the drill. is about mental process.
+DFS 12. The smell of the dentist’s office. is about mental process.
+DFS 13. Seeing the dentist walk in. is about mental process.
+DFS 15. Feeling the needle injected. is about mental process.
+DFS 16. Seeing the drill. is about mental process.
+DFS 17. Hearing the drill. is about mental process.
+DFS 14. Seeing the anesthetic needle. is about mental process.
+DFS 10. Sitting in the waiting room. is about sitting process.
+MDAS 2. If you were sitting in the WAITING ROOM (waiting for treatment), how would you feel? is about sitting process.
+DFS 11. Being seated in the dental chair. is about sitting process.
+DFS 06. I feel nauseated and sick to my stomach. is about pathological bodily process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about pathological bodily process.
+embarrassment part of multicellular organismal process.
+muscle tension response to emotion part of multicellular organismal process.
+emotional experience part of multicellular organismal process.
+sweat secretion response to emotion part of multicellular organismal process.
+increased breathing rate response to emotion part of multicellular organismal process.
+psychophysiological response to anxiety part of multicellular organismal process.
+psychophysiological response to fear part of multicellular organismal process.
+increased heart response to emotion part of multicellular organismal process.
+psychophysiological response to emotion part of multicellular organismal process.
+self-conscious emotional experience part of multicellular organismal process.
+odontoid tissue part of material anatomical entity.
+organ part of material anatomical entity.
+tooth-like structure part of material anatomical entity.
+dentine part of material anatomical entity.
+skeletal tissue part of material anatomical entity.
+skeletal element part of material anatomical entity.
+restored tooth part of material anatomical entity.
+mineralized skeletal tissue part of material anatomical entity.
+calcareous tooth part of material anatomical entity.
+tooth scaling procedure realizes role.
+dental visit realizes role.
+tooth cleaning procedure realizes role.
+tooth polishing procedure realizes role.
+patient sitting in waiting room realizes role.
+dental procedure realizes role.
+tooth restoration procedure realizes role.
+tooth drilling procedure realizes role.
+prosthetic tooth is bearer of material to be added role.
+dental restoration material is bearer of material to be added role.
+tooth cleaning process has participant functional tooth.
+tooth cleaning procedure has participant functional tooth.
+tooth restoration procedure has participant functional tooth.
+tooth scaling procedure has participant functional tooth.
+tooth polishing procedure has participant functional tooth.
+tooth restoration procedure has participant anatomical structure.
+tooth cleaning process has participant anatomical structure.
+tooth scaling procedure has participant anatomical structure.
+tooth polishing procedure has participant anatomical structure.
+tooth cleaning procedure has participant anatomical structure.
+process before dental visit precedes health care encounter.
+patient sitting in waiting room happens during health care encounter.
+tooth cleaning procedure happens during health care encounter.
+tooth scaling procedure happens during health care encounter.
+dental procedure happens during health care encounter.
+tooth drilling procedure happens during health care encounter.
+tooth polishing procedure happens during health care encounter.
+tooth restoration procedure happens during health care encounter.
+tooth restoration procedure achieves planned objective objective specification.
+process after dental visit preceded by health care encounter.
+dental patient role inheres in Homo sapiens.
+dental healthcare provider role inheres in Homo sapiens.
+healthcare provider role inheres in Homo sapiens.
+tooth to be restored role inheres in functional tooth.
+anatomical system has part anatomical structure.
+restored tooth has part anatomical structure.
+calcareous tooth has part anatomical structure.
+tooth to be restored role realized in tooth restoration procedure.
+dental healthcare provider role realized in health care encounter.
+tooth to be restored role realized in health care encounter.
+dental patient role realized in health care encounter.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about establishment of localization.
+DFS 05. I perspire. is about establishment of localization.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about response to stress.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about response to stress.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about response to stress.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about response to stress.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about response to stress.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about response to stress.
+IDAF-4C+ 3i. Gagging or choking. is about behavior.
+DFS 19. Having your teeth cleaned. is about behavior.
+DFS 20. All things considered, how fearful are you of having dental work done? is about behavior.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about behavior.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about behavior.
+DFS 09. Approaching the dentist’s office. is about behavior.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about behavior.
+DFS 15. Feeling the needle injected. is about behavior.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about behavior.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about behavior.
+DFS 11. Being seated in the dental chair. is about behavior.
+DFS 08. Making an appointment for dentistry. is about behavior.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about behavior.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about behavior.
+DFS 18. Feeling the vibrations of the drill. is about behavior.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about behavior.
+IDAF-4C+ 3g. The cost of dental treatment. is about behavior.
+DFS 03. My muscles become tense. is about behavior.
+DFS 16. Seeing the drill. is about behavior.
+DFS 13. Seeing the dentist walk in. is about behavior.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about behavior.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about behavior.
+DFS 12. The smell of the dentist’s office. is about behavior.
+DFS 07. My heart beats faster. is about behavior.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about behavior.
+DFS 14. Seeing the anesthetic needle. is about behavior.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about behavior.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about behavior.
+IDAF-4C+ 3c. Not being in control of what is happening. is about behavior.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about behavior.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about behavior.
+DFS 06. I feel nauseated and sick to my stomach. is about behavior.
+DFS 10. Sitting in the waiting room. is about behavior.
+DFS 05. I perspire. is about behavior.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about behavior.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about behavior.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about behavior.
+DFS 04. My breathing rate increases. is about behavior.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about behavior.
+DFS 17. Hearing the drill. is about behavior.
+IDAF-4C+ 3h. Needles or injections. is about behavior.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about behavior.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about behavior.
+DFS 07. My heart beats faster. is about system process.
+DFS 03. My muscles become tense. is about system process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about system process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about system process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about system process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about system process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about system process.
+DFS 04. My breathing rate increases. is about system process.
+DFS 05. I perspire. is about secretion by tissue.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about secretion by tissue.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about regulation of biological quality.
+DFS 05. I perspire. is about regulation of biological quality.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about tooth polishing procedure.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about tooth scaling procedure.
+MDAS 1. If you went to your Dentist for TREATMENT TOMORROW, how would you feel? is about treatment.
+DFS 05. I perspire. is about health care encounter.
+IDAF-4C+ 3h. Needles or injections. is about health care encounter.
+MDAS 4. If you were about to have your TEETH SCALED AND POLISHED, how would you feel? is about health care encounter.
+DFS 07. My heart beats faster. is about health care encounter.
+DFS 04. My breathing rate increases. is about health care encounter.
+DFS 06. I feel nauseated and sick to my stomach. is about health care encounter.
+DFS 03. My muscles become tense. is about health care encounter.
+DFS 17. Hearing the drill. is about health care encounter.
+DFS 18. Feeling the vibrations of the drill. is about health care encounter.
+DFS 16. Seeing the drill. is about health care encounter.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about health care encounter.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about health care encounter.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about health care encounter.
+DFS 19. Having your teeth cleaned. is about health care encounter.
+DFS 17. Hearing the drill. is about tooth drilling procedure.
+DFS 18. Feeling the vibrations of the drill. is about tooth drilling procedure.
+DFS 16. Seeing the drill. is about tooth drilling procedure.
+MDAS 3. If you were about to have a TOOTH DRILLED, how would you feel? is about tooth drilling procedure.
+DFS 13. Seeing the dentist walk in. is about perception.
+DFS 18. Feeling the vibrations of the drill. is about perception.
+DFS 14. Seeing the anesthetic needle. is about perception.
+DFS 17. Hearing the drill. is about perception.
+DFS 12. The smell of the dentist’s office. is about perception.
+DFS 15. Feeling the needle injected. is about perception.
+DFS 16. Seeing the drill. is about perception.
+DFS 06. I feel nauseated and sick to my stomach. is about nausea.
+psychophysiological response to emotion part of behavior.
+emotional experience part of behavior.
+muscle tension response to emotion part of behavior.
+increased heart response to emotion part of behavior.
+embarrassment part of behavior.
+increased breathing rate response to emotion part of behavior.
+self-conscious emotional experience part of behavior.
+psychophysiological response to fear part of behavior.
+sweat secretion response to emotion part of behavior.
+psychophysiological response to anxiety part of behavior.
+organ part of anatomical structure.
+odontoid tissue part of anatomical structure.
+skeletal element part of anatomical structure.
+tooth-like structure part of anatomical structure.
+skeletal tissue part of anatomical structure.
+calcareous tooth part of anatomical structure.
+restored tooth part of anatomical structure.
+dentine part of anatomical structure.
+mineralized skeletal tissue part of anatomical structure.
+tooth scaling procedure realizes patient role.
+patient sitting in waiting room realizes patient role.
+tooth drilling procedure realizes patient role.
+tooth restoration procedure realizes patient role.
+dental procedure realizes patient role.
+tooth polishing procedure realizes patient role.
+tooth cleaning procedure realizes patient role.
+tooth scaling procedure realizes healthcare provider role.
+dental visit realizes healthcare provider role.
+dental procedure realizes healthcare provider role.
+tooth cleaning procedure realizes healthcare provider role.
+tooth restoration procedure realizes healthcare provider role.
+tooth polishing procedure realizes healthcare provider role.
+tooth drilling procedure realizes healthcare provider role.
+tooth restoration procedure realizes target of material addition role.
+dental restoration material is bearer of dental restoration material role.
+prosthetic tooth is bearer of prosthetic role.
+tooth polishing procedure has participant calcareous tooth.
+tooth cleaning process has participant calcareous tooth.
+tooth restoration procedure has participant calcareous tooth.
+tooth scaling procedure has participant calcareous tooth.
+tooth cleaning procedure has participant calcareous tooth.
+tooth cleaning procedure has participant multicellular anatomical structure.
+tooth scaling procedure has participant multicellular anatomical structure.
+tooth cleaning process has participant multicellular anatomical structure.
+tooth polishing procedure has participant multicellular anatomical structure.
+tooth restoration procedure has participant multicellular anatomical structure.
+tooth cleaning process has participant structure with developmental contribution from neural crest.
+tooth cleaning procedure has participant structure with developmental contribution from neural crest.
+tooth restoration procedure has participant structure with developmental contribution from neural crest.
+tooth polishing procedure has participant structure with developmental contribution from neural crest.
+tooth scaling procedure has participant structure with developmental contribution from neural crest.
+process before dental visit precedes outpatient encounter.
+tooth scaling procedure happens during outpatient encounter.
+tooth drilling procedure happens during outpatient encounter.
+dental procedure happens during outpatient encounter.
+patient sitting in waiting room happens during outpatient encounter.
+tooth cleaning procedure happens during outpatient encounter.
+tooth restoration procedure happens during outpatient encounter.
+tooth polishing procedure happens during outpatient encounter.
+tooth restoration procedure achieves planned objective material transformation objective.
+process after dental visit preceded by outpatient encounter.
+calcareous tooth has part multicellular anatomical structure.
+restored tooth has part multicellular anatomical structure.
+anatomical system has part multicellular anatomical structure.
+restored tooth has part structure with developmental contribution from neural crest.
+calcareous tooth has part structure with developmental contribution from neural crest.
+restored tooth has part ectoderm-derived structure.
+calcareous tooth has part ectoderm-derived structure.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about transport.
+DFS 05. I perspire. is about transport.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about defense response.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about defense response.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about defense response.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about defense response.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about defense response.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about defense response.
+DFS 03. My muscles become tense. is about psychophysiological response to emotion.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about psychophysiological response to emotion.
+DFS 07. My heart beats faster. is about psychophysiological response to emotion.
+DFS 04. My breathing rate increases. is about psychophysiological response to emotion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about psychophysiological response to emotion.
+DFS 20. All things considered, how fearful are you of having dental work done? is about emotion process.
+DFS 15. Feeling the needle injected. is about emotion process.
+DFS 18. Feeling the vibrations of the drill. is about emotion process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about emotion process.
+IDAF-4C+ 3d. Feeling sick, quesy or disgusted. is about emotion process.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about emotion process.
+IDAF-4C+ 2b. My fear of going to the dentist has been present for at least 6 months. is about emotion process.
+IDAF-4C+ 1c. I get nervous or edgy about upcoming dental visits. is about emotion process.
+DFS 06. I feel nauseated and sick to my stomach. is about emotion process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about emotion process.
+IDAF-4C+ 3a. Painful or uncomfortable procedures. is about emotion process.
+DFS 14. Seeing the anesthetic needle. is about emotion process.
+IDAF-4C+ 3h. Needles or injections. is about emotion process.
+IDAF-4C+ 1e. I feel afraid or fearful when visiting the dentist. is about emotion process.
+IDAF-4C+ 3c. Not being in control of what is happening. is about emotion process.
+IDAF-4C+ 3i. Gagging or choking. is about emotion process.
+DFS 07. My heart beats faster. is about emotion process.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about emotion process.
+DFS 13. Seeing the dentist walk in. is about emotion process.
+DFS 12. The smell of the dentist’s office. is about emotion process.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about emotion process.
+IDAF-4C+ 3f. Not knowing what the dentist is going to do. is about emotion process.
+IDAF-4C+ 1a. I feel anxious shortly before going to the dentist. is about emotion process.
+DFS 05. I perspire. is about emotion process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about emotion process.
+IDAF-4C+ 3g. The cost of dental treatment. is about emotion process.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about emotion process.
+DFS 09. Approaching the dentist’s office. is about emotion process.
+DFS 08. Making an appointment for dentistry. is about emotion process.
+IDAF-4C+ 3e. Numbness caused by the anesthetic. is about emotion process.
+DFS 11. Being seated in the dental chair. is about emotion process.
+DFS 03. My muscles become tense. is about emotion process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about emotion process.
+IDAF-4C+ 3j. Having an unsympathetic or unkind dentist. is about emotion process.
+DFS 19. Having your teeth cleaned. is about emotion process.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about emotion process.
+DFS 04. My breathing rate increases. is about emotion process.
+DFS 10. Sitting in the waiting room. is about emotion process.
+DFS 16. Seeing the drill. is about emotion process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about emotion process.
+IDAF-4C+ 1d. I think that something really bad would happen to me if I were to visit a dentist. is about emotion process.
+IDAF-4C+ 1h. I often think about all the things that might go wrong prior to going to the dentist. is about emotion process.
+DFS 17. Hearing the drill. is about emotion process.
+DFS 03. My muscles become tense. is about muscle system process.
+DFS 04. My breathing rate increases. is about respiratory system process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about respiratory system process.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about behavioral defense response.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about behavioral defense response.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about behavioral defense response.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about behavioral defense response.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about behavioral defense response.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about behavioral defense response.
+DFS 07. My heart beats faster. is about circulatory system process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about circulatory system process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about circulatory system process.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about nervous system process.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about nervous system process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about nervous system process.
+DFS 05. I perspire. is about sweat secretion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about sweat secretion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about regulation of body fluid levels.
+DFS 05. I perspire. is about regulation of body fluid levels.
+DFS 07. My heart beats faster. is about outpatient encounter.
+DFS 03. My muscles become tense. is about outpatient encounter.
+DFS 06. I feel nauseated and sick to my stomach. is about outpatient encounter.
+DFS 04. My breathing rate increases. is about outpatient encounter.
+DFS 05. I perspire. is about outpatient encounter.
+MDAS 5. If you were about to have a LOCAL ANAESTHETIC INJECTION in your gum, above an upper back tooth, how would you feel? is about local anaesthetic injection.
+DFS 17. Hearing the drill. is about hearing.
+DFS 18. Feeling the vibrations of the drill. is about touching.
+DFS 15. Feeling the needle injected. is about touching.
+DFS 12. The smell of the dentist’s office. is about smelling.
+DFS 14. Seeing the anesthetic needle. is about seeing.
+DFS 16. Seeing the drill. is about seeing.
+DFS 13. Seeing the dentist walk in. is about seeing.
+emotional experience part of emotion process.
+psychophysiological response to fear part of emotion process.
+muscle tension response to emotion part of emotion process.
+psychophysiological response to emotion part of emotion process.
+psychophysiological response to anxiety part of emotion process.
+embarrassment part of emotion process.
+sweat secretion response to emotion part of emotion process.
+increased heart response to emotion part of emotion process.
+increased breathing rate response to emotion part of emotion process.
+self-conscious emotional experience part of emotion process.
+odontoid tissue part of multicellular anatomical structure.
+dentine part of multicellular anatomical structure.
+mineralized skeletal tissue part of multicellular anatomical structure.
+skeletal tissue part of multicellular anatomical structure.
+skeletal tissue part of anatomical system.
+odontoid tissue part of anatomical system.
+skeletal element part of anatomical system.
+mineralized skeletal tissue part of anatomical system.
+tooth-like structure part of anatomical system.
+restored tooth part of anatomical system.
+organ part of anatomical system.
+calcareous tooth part of anatomical system.
+dentine part of anatomical system.
+tooth cleaning procedure realizes dental patient role.
+tooth scaling procedure realizes dental patient role.
+dental procedure realizes dental patient role.
+patient sitting in waiting room realizes dental patient role.
+tooth restoration procedure realizes dental patient role.
+tooth polishing procedure realizes dental patient role.
+tooth drilling procedure realizes dental patient role.
+dental visit realizes dental healthcare provider role.
+tooth restoration procedure realizes dental healthcare provider role.
+tooth polishing procedure realizes dental healthcare provider role.
+tooth drilling procedure realizes dental healthcare provider role.
+dental procedure realizes dental healthcare provider role.
+tooth cleaning procedure realizes dental healthcare provider role.
+tooth scaling procedure realizes dental healthcare provider role.
+tooth restoration procedure realizes tooth to be restored role.
+prosthetic tooth is bearer of functional prosthetic role.
+tooth polishing procedure has participant organ.
+tooth scaling procedure has participant organ.
+tooth cleaning process has participant organ.
+tooth cleaning procedure has participant organ.
+tooth restoration procedure has participant organ.
+process before dental visit precedes dental visit.
+dental procedure happens during dental visit.
+tooth cleaning procedure happens during dental visit.
+patient sitting in waiting room happens during dental visit.
+tooth drilling procedure happens during dental visit.
+tooth polishing procedure happens during dental visit.
+tooth restoration procedure happens during dental visit.
+tooth scaling procedure happens during dental visit.
+tooth restoration procedure achieves planned objective material combination objective.
+process after dental visit preceded by dental visit.
+restored tooth has part tissue.
+calcareous tooth has part tissue.
+anatomical system has part organ.
+restored tooth has part neural crest-derived structure.
+calcareous tooth has part neural crest-derived structure.
+DFS 05. I perspire. is about secretion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about secretion.
+DFS 07. My heart beats faster. is about increased heart response to emotion.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about increased heart response to emotion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about increased heart response to emotion.
+DFS 04. My breathing rate increases. is about increased breathing rate response to emotion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about increased breathing rate response to emotion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about sweat secretion response to emotion.
+DFS 03. My muscles become tense. is about muscle tension response to emotion.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about avoidance behavior.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about avoidance behavior.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about avoidance behavior.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about avoidance behavior.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about avoidance behavior.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about avoidance behavior.
+DFS 03. My muscles become tense. is about muscle contraction.
+DFS 07. My heart beats faster. is about heart process.
+IDAF-4C+ 1f. My heart beats faster when I go to the dentist. is about heart process.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about heart process.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about cognition.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about cognition.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about cognition.
+DFS 05. I perspire. is about body fluid secretion.
+IDAF-4C+ 2d. I am afraid of going to the dentist because I am concerned I may have a panic attack  (abrupt fear with sweating, pounding heart, fear of dying or losing control, chest pain etc.). is about body fluid secretion.
+DFS 06. I feel nauseated and sick to my stomach. is about dental visit.
+DFS 07. My heart beats faster. is about dental visit.
+DFS 04. My breathing rate increases. is about dental visit.
+DFS 05. I perspire. is about dental visit.
+DFS 03. My muscles become tense. is about dental visit.
+DFS 17. Hearing the drill. is about hearing dental drill.
+DFS 15. Feeling the needle injected. is about feeling needle injection.
+DFS 18. Feeling the vibrations of the drill. is about feeling dental drill vibrations.
+DFS 12. The smell of the dentist’s office. is about smelling dentist office.
+DFS 14. Seeing the anesthetic needle. is about seeing anesthetic needle.
+DFS 13. Seeing the dentist walk in. is about seeing dentist.
+DFS 16. Seeing the drill. is about seeing dental drill.
+psychophysiological response to anxiety part of anxiety process.
+psychophysiological response to fear part of fear process.
+mineralized skeletal tissue part of organ.
+dentine part of organ.
+odontoid tissue part of organ.
+skeletal tissue part of organ.
+tooth restoration procedure has participant skeletal element.
+tooth scaling procedure has participant skeletal element.
+tooth cleaning process has participant skeletal element.
+tooth cleaning procedure has participant skeletal element.
+tooth polishing procedure has participant skeletal element.
+tooth restoration procedure achieves planned objective adding material objective.
+calcareous tooth has part connective tissue.
+restored tooth has part connective tissue.
+restored tooth has part dentine.
+calcareous tooth has part dentine.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about health encounter avoidance behavior.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about health encounter avoidance behavior.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about health encounter avoidance behavior.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about health encounter avoidance behavior.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about health encounter avoidance behavior.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about health encounter avoidance behavior.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about phenomenal cognitive experience.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about phenomenal cognitive experience.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about phenomenal cognitive experience.
+dentine part of skeletal element.
+mineralized skeletal tissue part of skeletal element.
+skeletal tissue part of skeletal element.
+odontoid tissue part of skeletal element.
+tooth scaling procedure has participant tooth-like structure.
+tooth cleaning process has participant tooth-like structure.
+tooth polishing procedure has participant tooth-like structure.
+tooth cleaning procedure has participant tooth-like structure.
+tooth restoration procedure has participant tooth-like structure.
+restored tooth has part skeletal tissue.
+calcareous tooth has part skeletal tissue.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about dental visit avoidance behavior.
+IDAF-4C+ 1b. I generally avoid going to the dentist because I find the experience unpleasant or distressing. is about dental visit avoidance behavior.
+IDAF-4C+ 2a. Going to the dentist is actively avoided or else endured with intense fear or anxiety. is about dental visit avoidance behavior.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about dental visit avoidance behavior.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about dental visit avoidance behavior.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about dental visit avoidance behavior.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about emotional experience.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about emotional experience.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about emotional experience.
+restored tooth has part odontoid tissue.
+calcareous tooth has part odontoid tissue.
+restored tooth has part mineralized skeletal tissue.
+calcareous tooth has part mineralized skeletal tissue.
+DFS 02. Has fear of dental work ever caused you to cancel or not appear for an appointment? is about dental visit avoidance behavior that involves canceling or not showing up for a dental appointment.
+DFS 01. Has fear of dental work ever caused you to put off making an appointment? is about dental visit avoidance behavior that involves delay in scheduling a dental appointment.
+IDAF-4C+ 1g. I delay making appointments to go to the dentist. is about dental visit avoidance behavior that involves delay in scheduling a dental appointment.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about self-conscious emotional experience.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about self-conscious emotional experience.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about self-conscious emotional experience.
+IDAF-4C+ 3b. Feeling embarrassed or ashamed. is about embarrassment.
+IDAF-4C+ 2c. My fear, anxiety or avoidance of going to the dentist significantly affects my life in some way (dental pain, avoiding eating some foods, embarrassed or self-conscious about appearance of teeth or mouth, etc.). is about embarrassment.
+IDAF-4C+ 2e. I am afraid of going to the dentist because I am generally highly self-conscious or concerned about being watched or judged in social situations. is about embarrassment.
+psychophysiological response to emotion causally related to emotion process.

@@ -2,3 +2,5 @@ ontology_zh.ipynb
 __pycache__/
 .ipynb_checkpoints/
 .env
+.DS_Store
+tmp/
