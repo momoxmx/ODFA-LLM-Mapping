@@ -115,3 +115,133 @@ def plot_placements(node_table, item_table, placements=None, out_file=None, only
     if out_file:
         plt.savefig(out_file, dpi=150)
     plt.show()
+
+def plot_ontology_input(node_table, concept_table, axiom_links, out_file=None, wrap=24):
+    """The V4/V5 ontology input as a picture.
+    Left: question class tree (Part 1). Right: related concept tree (Part 2).
+    Orange lines: the logical axioms (Part 3) linking a question class to the concept it is about;
+    dashed orange = one alternative in an OR definition. Solid gray/green lines: parent-child ("is a").
+    A concept with a second parent is drawn once; the extra parent link is a dotted line.
+    Get concept_table and axiom_links from ontology.ontology_structure()."""
+    q_pos, q_children = tree_positions(node_table, {})
+    n_rows = max(len(q_pos), len(concept_table))
+    q_pos = {k: (x, y * n_rows / len(q_pos)) for k, (x, y) in q_pos.items()}
+
+    # concept tree: order branches by where their linked question classes sit, so the axiom lines cross less
+    parents = dict(zip(concept_table['concept_id'], concept_table['parent_ids']))
+    children = {}
+    for c, ps in parents.items():
+        for p in ps or [None]:
+            children.setdefault(p, []).append(c)
+    target_y = axiom_links.assign(y=axiom_links['node_id'].map(lambda n: q_pos[n][1])) \
+                          .groupby('concept_id')['y'].min().to_dict()
+    memo = {}
+
+    def key(c):
+        if c not in memo:
+            memo[c] = n_rows + 1
+            memo[c] = min([target_y.get(c, n_rows + 1)] + [key(k) for k in children.get(c, [])])
+        return memo[c]
+
+    gap = max(x for x, _ in q_pos.values()) + 4
+    c_pos, primary = {}, {}
+
+    def visit(parent, depth):
+        for c in sorted(children.get(parent, []), key=key):
+            if c not in c_pos:
+                c_pos[c] = (gap + depth, len(c_pos) * n_rows / len(concept_table))
+                primary[c] = parent
+                visit(c, depth + 1)
+
+    visit(None, 0)
+
+    fig, ax = plt.subplots(figsize=(28, n_rows * 0.42))
+    for parent, (px, py) in q_pos.items():
+        for child in q_children.get(parent, []):
+            cx, cy = q_pos[child]
+            ax.plot([px, px, cx], [py, cy, cy], color='gray', lw=0.9, alpha=0.6, zorder=0)
+    for c, ps in parents.items():
+        cx, cy = c_pos[c]
+        for p in ps:
+            px, py = c_pos[p]
+            if p == primary[c]:
+                ax.plot([px, px, cx], [py, cy, cy], color='#5E9C5D', lw=0.9, alpha=0.7, zorder=0)
+            else:
+                ax.plot([px + 0.4, cx - 0.4], [py, cy], color='#5E9C5D', lw=0.8, ls=':', alpha=0.6, zorder=0)
+
+    linked = set(axiom_links['concept_id'])
+    for _, link in axiom_links.iterrows():
+        (qx, qy), (cx, cy) = q_pos[link['node_id']], c_pos[link['concept_id']]
+        ax.annotate('', xy=(cx - 0.5, cy), xytext=(qx + 0.5, qy),
+                    arrowprops=dict(arrowstyle='->', color='tab:orange', lw=1.6,
+                                    ls='--' if link['kind'] == 'or' else '-'), zorder=1)
+
+    q_labels = dict(zip(node_table['node_id'], node_table['label']))
+    c_labels = dict(zip(concept_table['concept_id'], concept_table['label']))
+    for pos, labels, fc, ec in [(q_pos, q_labels, 'whitesmoke', 'gray'), (c_pos, c_labels, '#E3F2E3', '#5E9C5D')]:
+        for node, (x, y) in pos.items():
+            ax.text(x, y, '\n'.join(textwrap.wrap(labels[node], wrap)), va='center', ha='center', fontsize=7.5,
+                    bbox=dict(boxstyle='round', fc=fc, ec=ec, lw=2 if node in linked else 1), zorder=2)
+
+    ax.text(0, -1.6, 'Part 1. Question classes', fontsize=13, weight='bold', color='dimgray')
+    ax.text(gap, -1.6, 'Part 2. Related concepts', fontsize=13, weight='bold', color='#3E7C3D')
+    ax.plot([], [], color='tab:orange', label='Part 3. axiom: question class is about concept')
+    ax.plot([], [], color='tab:orange', ls='--', label='Part 3. axiom: one alternative in an OR definition')
+    ax.plot([], [], color='gray', label='is a (parent-child)')
+    ax.plot([], [], color='#5E9C5D', ls=':', label='is a (second parent)')
+    ax.legend(loc='upper right', frameon=False, fontsize=10)
+    ax.set_xlim(-0.8, max(x for x, _ in c_pos.values()) + 1)
+    ax.set_ylim(n_rows, -2.5)
+    ax.axis('off')
+    plt.tight_layout()
+    if out_file:
+        plt.savefig(out_file, dpi=150)
+    plt.show()
+
+
+def plot_concept_axioms(concept_table, concept_links, out_file=None, wrap=30):
+    """Part 4 of the V4/V5 input as its own picture.
+    Left: the Part 2 concepts that have their own logical axioms. Right: the other classes those
+    axioms mention. Each arrow is one axiom, labelled with its relation,
+    e.g. dental procedure --happens during some--> dental visit.
+    Get concept_links from ontology.concept_axiom_links()."""
+    c_labels = dict(zip(concept_table['concept_id'], concept_table['label']))
+    t_labels = dict(zip(concept_links['target_id'], concept_links['target_label']))
+    sources = sorted(concept_links['concept_id'].unique(), key=lambda c: c_labels[c])
+    s_pos = {c: (0, k * 1.6) for k, c in enumerate(sources)}
+
+    # each target sits at the average height of the concepts pointing to it, kept at least 1.6 apart
+    wanted = concept_links.assign(y=concept_links['concept_id'].map(lambda c: s_pos[c][1])) \
+                          .groupby('target_id')['y'].mean().sort_values()
+    t_pos, last = {}, -10
+    for target, y in wanted.items():
+        y = max(y, last + 1.6)
+        t_pos[target] = (10, y)
+        last = y
+
+    height = max(max(y for _, y in s_pos.values()), last) + 1.6
+    fig, ax = plt.subplots(figsize=(14, height * 0.55 + 1.5))
+    for _, link in concept_links.iterrows():
+        (sx, sy), (tx, ty) = s_pos[link['concept_id']], t_pos[link['target_id']]
+        ax.annotate('', xy=(tx - 1.6, ty), xytext=(sx + 1.9, sy),
+                    arrowprops=dict(arrowstyle='->', color='tab:purple', lw=1.2, alpha=0.75), zorder=1)
+        # label near the start of the arrow, before arrows from different concepts cross
+        x0, x1 = sx + 1.9, tx - 1.6
+        lx = x0 + 0.28 * (x1 - x0)
+        ly = sy + (ty - sy) * (lx - x0) / (x1 - x0)
+        ax.text(lx, ly, link['relation'], fontsize=8, color='tab:purple',
+                ha='center', va='center', bbox=dict(fc='white', ec='none', pad=0.5), zorder=2)
+    for pos, labels, fc, ec in [(s_pos, c_labels, '#E3F2E3', '#5E9C5D'), (t_pos, t_labels, '#EFE6F5', 'tab:purple')]:
+        for node, (x, y) in pos.items():
+            ax.text(x, y, '\n'.join(textwrap.wrap(labels[node], wrap)), ha='center', va='center', fontsize=9,
+                    bbox=dict(boxstyle='round', fc=fc, ec=ec), zorder=3)
+    ax.text(0, -1.4, 'Part 2 concepts with their own axioms', ha='center', fontsize=12, weight='bold', color='#3E7C3D')
+    ax.text(10, -1.4, 'Other classes these axioms mention', ha='center', fontsize=12, weight='bold', color='tab:purple')
+    ax.set_title('Part 4. Logical axioms of the related concepts', fontsize=14, loc='left')
+    ax.set_xlim(-2.5, 12.5)
+    ax.set_ylim(height, -2.2)
+    ax.axis('off')
+    plt.tight_layout()
+    if out_file:
+        plt.savefig(out_file, dpi=150)
+    plt.show()
